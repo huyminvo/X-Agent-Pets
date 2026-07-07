@@ -1,0 +1,6 @@
+{
+  "id": "yier-gif",
+  "displayName": "Yier GIF",
+  "description": "Yier built from the user's local original GIF sticker frames, with generated fallback only for directional running.",
+  "spritesheetPath": "spritesheet.webp"
+}

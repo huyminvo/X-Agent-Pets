@@ -1,0 +1,6 @@
+{
+  "id": "unpaid-stamp",
+  "displayName": "Unpaid Stamp",
+  "description": "A wax-bottom stamp that marks the desk but not the debtor.",
+  "spritesheetPath": "spritesheet.webp"
+}

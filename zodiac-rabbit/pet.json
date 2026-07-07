@@ -1,0 +1,6 @@
+{
+    "id":  "zodiac-rabbit",
+    "displayName":  "Zodiac Rabbit",
+    "description":  "A Codex pet directly based on the provided Chinese zodiac rabbit state references.",
+    "spritesheetPath":  "spritesheet.webp"
+}

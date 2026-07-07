@@ -1,0 +1,6 @@
+{
+  "id": "voxi",
+  "displayName": "Voxi",
+  "description": "A tiny voice-wave companion for VoxCPM work, shaped like a cute microphone capsule with a small waveform tail.",
+  "spritesheetPath": "spritesheet.webp"
+}

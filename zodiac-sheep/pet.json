@@ -1,0 +1,6 @@
+{
+  "id": "zodiac-sheep",
+  "displayName": "Zodiac Sheep",
+  "description": "A Chinese zodiac sheep pet based directly on the provided nine reference poses.",
+  "spritesheetPath": "spritesheet.webp"
+}

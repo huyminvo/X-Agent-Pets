@@ -1,0 +1,6 @@
+{
+  "id": "wrong-side-needlecase",
+  "displayName": "Wrong-Side Needlecase",
+  "description": "A tiny metal needlecase whose hinge opens on the impossible side.",
+  "spritesheetPath": "spritesheet.webp"
+}

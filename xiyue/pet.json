@@ -1,0 +1,9 @@
+{
+  "id": "xiyue",
+  "displayName": "汐月同学",
+  "description": "我是枣庄王桂芳",
+  "spritesheetPath": "spritesheet.webp",
+  "animation": {
+    "frameDurationMs": 320
+  }
+}

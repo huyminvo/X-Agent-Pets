@@ -1,0 +1,6 @@
+{
+  "id": "zodiac-dragon",
+  "displayName": "Zodiac Dragon",
+  "description": "A Chinese zodiac dragon pet based directly on the provided nine reference poses.",
+  "spritesheetPath": "spritesheet.webp"
+}

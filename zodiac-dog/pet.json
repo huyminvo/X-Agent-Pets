@@ -1,0 +1,6 @@
+{
+    "id":  "zodiac-dog",
+    "displayName":  "Zodiac Dog",
+    "description":  "A Chinese zodiac dog pet based directly on the provided nine reference poses.",
+    "spritesheetPath":  "spritesheet.webp"
+}

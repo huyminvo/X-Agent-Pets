@@ -1,0 +1,6 @@
+{
+  "id": "zebra-motion",
+  "displayName": "Zebra Motion",
+  "description": "A seated zebra with visible neighing, standing, jumping, and running animations.",
+  "spritesheetPath": "spritesheet.webp"
+}

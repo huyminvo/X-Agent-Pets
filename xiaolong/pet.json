@@ -1,0 +1,20 @@
+{
+  "id": "XiaoLong",
+  "displayName": "XiaoLong",
+  "description": "A 3D character model of XiaoLong, a cute and playful pet. This model is designed for use in games and virtual environments, featuring high-quality textures and animations.",
+  "spritesheetPath": "spritesheet.webp",
+  "sprite": {
+    "size": {
+      "width": 160,
+      "height": 160
+    },
+    "scale": 1.4,
+    "anchor": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  },
+  "display": {
+    "scale": 1.65
+  }
+}

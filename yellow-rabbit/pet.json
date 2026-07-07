@@ -1,0 +1,7 @@
+{
+  "id": "yellow-rabbit",
+  "displayName": "Yellow Rabbit",
+  "description": "A Codex pet version of Yellow Rabbit.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "witness-lamp",
+  "displayName": "Witness Lamp",
+  "description": "A dim witness lamp that remembers what the room will not say.",
+  "spritesheetPath": "spritesheet.webp"
+}

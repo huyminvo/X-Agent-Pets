@@ -1,0 +1,6 @@
+{
+  "id": "xiaomu",
+  "displayName": "小沐",
+  "description": "A soft futuristic Xiaomu companion that preserves the reference character while adding gentle idle, movement, waving, jumping, waiting, and reaction states.",
+  "spritesheetPath": "spritesheet.png"
+}

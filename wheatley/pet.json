@@ -1,0 +1,6 @@
+{
+  "id": "wheatley",
+  "displayName": "Wheatley",
+  "description": "A tiny Wheatley-inspired spherical AI core companion with a bright blue eye and nervous charm.",
+  "spritesheetPath": "spritesheet.webp"
+}

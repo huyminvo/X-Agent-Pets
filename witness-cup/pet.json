@@ -1,0 +1,6 @@
+{
+  "id": "witness-cup",
+  "displayName": "Witness Cup",
+  "description": "A small cup that keeps the last unswallowed answer at the bottom.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,314 @@
+{
+  "id": "violetcafe",
+  "displayName": "VioletCafe",
+  "description": "An original tiny chibi Codex desktop pet with short violet hair, a calm cafe-inspired outfit, soft expressions, and playful cartoon smoke-puff effects. She has a quiet, curious personality and reacts with cute animations while you code.",
+  "spritesheetPath": "spritesheet.webp",
+  "animationRows": {
+    "idle": {
+      "row": 0,
+      "frames": 6,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running-right": {
+      "row": 1,
+      "frames": 8,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running-left": {
+      "row": 2,
+      "frames": 8,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "waving": {
+      "row": 3,
+      "frames": 4,
+      "loop": false,
+      "repeat": false,
+      "repeatCount": 1,
+      "playback": "once",
+      "returnToIdle": true,
+      "interruptible": true
+    },
+    "jumping": {
+      "row": 4,
+      "frames": 5,
+      "loop": false,
+      "repeat": false,
+      "repeatCount": 1,
+      "playback": "once",
+      "returnToIdle": true,
+      "interruptible": true
+    },
+    "failed": {
+      "row": 5,
+      "frames": 8,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true,
+      "hold": true
+    },
+    "waiting": {
+      "row": 6,
+      "frames": 6,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running": {
+      "row": 7,
+      "frames": 6,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "review": {
+      "row": 8,
+      "frames": 6,
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    }
+  },
+  "stateMapping": {
+    "idle": "idle",
+    "default": "idle",
+    "ready": "idle",
+    "thinking": "review",
+    "processing": "running",
+    "working": "running",
+    "busy": "running",
+    "generating": "running",
+    "running": "running",
+    "waiting": "waiting",
+    "waiting_for_input": "waiting",
+    "needs_input": "waiting",
+    "waiting_for_approval": "review",
+    "approval_required": "review",
+    "review": "review",
+    "ready_for_review": "review",
+    "needs_review": "review",
+    "success": "jumping",
+    "done": "jumping",
+    "completed": "jumping",
+    "failed": "failed",
+    "error": "failed",
+    "cancelled": "failed",
+    "blocked": "failed"
+  },
+  "interactionMapping": {
+    "hover": "waving",
+    "click": "waving"
+  },
+  "states": {
+    "idle": "idle",
+    "default": "idle",
+    "ready": "idle",
+    "thinking": "review",
+    "processing": "running",
+    "working": "running",
+    "busy": "running",
+    "generating": "running",
+    "running": "running",
+    "waiting": "waiting",
+    "waiting_for_input": "waiting",
+    "needs_input": "waiting",
+    "waiting_for_approval": "review",
+    "approval_required": "review",
+    "review": "review",
+    "ready_for_review": "review",
+    "needs_review": "review",
+    "success": "jumping",
+    "done": "jumping",
+    "completed": "jumping",
+    "failed": "failed",
+    "error": "failed",
+    "cancelled": "failed",
+    "blocked": "failed"
+  },
+  "animationPlayback": {
+    "idle": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running-right": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running-left": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "running": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "waiting": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "review": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "failed": {
+      "loop": true,
+      "repeat": true,
+      "playback": "loop",
+      "hold": true,
+      "returnToIdle": false,
+      "interruptible": true
+    },
+    "waving": {
+      "loop": false,
+      "repeat": false,
+      "repeatCount": 1,
+      "playback": "once",
+      "returnToIdle": true,
+      "interruptible": true
+    },
+    "jumping": {
+      "loop": false,
+      "repeat": false,
+      "repeatCount": 1,
+      "playback": "once",
+      "returnToIdle": true,
+      "interruptible": true
+    }
+  },
+  "statePlayback": {
+    "idle": {
+      "animation": "idle",
+      "playback": "while-active"
+    },
+    "default": {
+      "animation": "idle",
+      "playback": "while-active"
+    },
+    "ready": {
+      "animation": "idle",
+      "playback": "while-active"
+    },
+    "thinking": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "processing": {
+      "animation": "running",
+      "playback": "while-active"
+    },
+    "working": {
+      "animation": "running",
+      "playback": "while-active"
+    },
+    "busy": {
+      "animation": "running",
+      "playback": "while-active"
+    },
+    "generating": {
+      "animation": "running",
+      "playback": "while-active"
+    },
+    "running": {
+      "animation": "running",
+      "playback": "while-active"
+    },
+    "waiting": {
+      "animation": "waiting",
+      "playback": "while-active"
+    },
+    "waiting_for_input": {
+      "animation": "waiting",
+      "playback": "while-active"
+    },
+    "needs_input": {
+      "animation": "waiting",
+      "playback": "while-active"
+    },
+    "waiting_for_approval": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "approval_required": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "review": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "ready_for_review": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "needs_review": {
+      "animation": "review",
+      "playback": "while-active"
+    },
+    "success": {
+      "animation": "jumping",
+      "playback": "once"
+    },
+    "done": {
+      "animation": "jumping",
+      "playback": "once"
+    },
+    "completed": {
+      "animation": "jumping",
+      "playback": "once"
+    },
+    "failed": {
+      "animation": "failed",
+      "playback": "while-active"
+    },
+    "error": {
+      "animation": "failed",
+      "playback": "while-active"
+    },
+    "cancelled": {
+      "animation": "failed",
+      "playback": "while-active"
+    },
+    "blocked": {
+      "animation": "failed",
+      "playback": "while-active"
+    }
+  }
+}

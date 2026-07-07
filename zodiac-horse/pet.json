@@ -1,0 +1,6 @@
+{
+    "id":  "zodiac-horse",
+    "displayName":  "生肖马",
+    "description":  "A Codex pet built directly from the provided Chinese zodiac horse reference poses.",
+    "spritesheetPath":  "spritesheet.webp"
+}

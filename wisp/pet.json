@@ -1,0 +1,6 @@
+{
+  "id": "wisp",
+  "displayName": "Wisp",
+  "description": "A tiny ghost-like Codex spirit whose colors and motion clearly signal running, waiting, ready-for-review, success, and error states.",
+  "spritesheetPath": "spritesheet.webp"
+}
