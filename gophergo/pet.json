@@ -1,0 +1,6 @@
+{
+  "id": "gophergo",
+  "displayName": "GopherGo",
+  "description": "A tiny Go gopher coding companion with a laptop.",
+  "spritesheetPath": "spritesheet.png"
+}

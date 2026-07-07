@@ -1,0 +1,6 @@
+{
+  "id": "giannis-pet2-0",
+  "displayName": "\u5b57\u6bcd\u54e5 Giannis 2.0",
+  "description": "A Codex-ready Giannis pet rebuilt from the user's demo assets, preserving all nine source action groups through the standard Codex pet state atlas.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hanli-q",
+  "displayName": "Han Li Q",
+  "description": "一个圆润的Q版修仙者宠物，身穿黑袍、披着红色斗篷，并带有绿色小瓶挂饰。",
+  "spritesheetPath": "spritesheet.webp",
+  "author": "geng",
+  "tags": [
+    "cultivator",
+    "han-li",
+    "q-version",
+    "red-cloak"
+  ],
+  "source": "local",
+  "sourceUrl": "https://petdex.crafter.run/zh/create"
+}

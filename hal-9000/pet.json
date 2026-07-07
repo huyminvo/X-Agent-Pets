@@ -1,0 +1,6 @@
+{
+  "id": "hal-9000",
+  "displayName": "HAL 9000",
+  "description": "A tiny retro AI camera lens companion with a glowing red eye and monolith-like console body.",
+  "spritesheetPath": "spritesheet.webp"
+}

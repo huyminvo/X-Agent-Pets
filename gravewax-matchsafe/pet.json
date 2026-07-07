@@ -1,0 +1,6 @@
+{
+  "id": "gravewax-matchsafe",
+  "displayName": "Gravewax Matchsafe",
+  "description": "A sealed matchsafe that keeps a buried ember from waking.",
+  "spritesheetPath": "spritesheet.webp"
+}

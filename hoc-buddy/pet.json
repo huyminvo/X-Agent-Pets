@@ -1,0 +1,20 @@
+{
+  "id": "hoc-buddy",
+  "displayName": "Corinna",
+  "description": "Friendly chibi cart mascot for the House of Carts community, riding on the desktop while HOC Buddy listens for new messages.",
+  "spritesheetPath": "spritesheet.webp",
+  "speechBubbles": {
+    "enabled": true,
+    "triggers": [
+      "active",
+      "summon",
+      "command"
+    ],
+    "oneLiners": [
+      "Cart secured!",
+      "Drop alert! \ud83d\uded2",
+      "House of Carts represent!",
+      "Bag everything!"
+    ]
+  }
+}

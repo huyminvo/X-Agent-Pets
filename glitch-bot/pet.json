@@ -1,0 +1,6 @@
+{
+  "id": "glitch-bot",
+  "displayName": "故障机器人",
+  "description": "一个头顶充能球的故障机器人桌宠：冰球待机、闪电球处理任务，失败时切成黑暗球。",
+  "spritesheetPath": "spritesheet.webp"
+}

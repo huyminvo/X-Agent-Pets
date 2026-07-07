@@ -1,0 +1,6 @@
+{
+  "id": "hedgehog",
+  "displayName": "Hedgehog",
+  "description": "A careful hedgehog delegate for an interspecies parliament.",
+  "spritesheetPath": "spritesheet.webp"
+}

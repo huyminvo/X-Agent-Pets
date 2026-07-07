@@ -1,0 +1,6 @@
+{
+  "id": "kabuda",
+  "displayName": "kabuda",
+  "description": "A compact red beetle robot pet based on the user's reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

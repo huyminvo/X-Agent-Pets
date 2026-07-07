@@ -1,0 +1,6 @@
+{
+  "id": "guardian",
+  "displayName": "Guardian",
+  "description": "A compact Codex companion inspired by the Apiiro Guardian bot with a rounded pale face, dark shell, a prismatic crystal crest, and a shield",
+  "spritesheetPath": "spritesheet.webp"
+}

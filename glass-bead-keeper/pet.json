@@ -1,0 +1,6 @@
+{
+  "id": "glass-bead-keeper",
+  "displayName": "Glass Bead Keeper",
+  "description": "A compact Codex digital pet who guards a tiny glass bead.",
+  "spritesheetPath": "spritesheet.webp"
+}

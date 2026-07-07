@@ -1,0 +1,6 @@
+{
+  "id": "kana-emote",
+  "displayName": "Kana Emote",
+  "description": "A compact chibi anime sticker-style Codex pet based on the provided emote character reference.",
+  "spritesheetPath": "spritesheet.webp"
+}

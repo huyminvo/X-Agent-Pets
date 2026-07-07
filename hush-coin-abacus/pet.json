@@ -1,0 +1,6 @@
+{
+  "id": "hush-coin-abacus",
+  "displayName": "Hush-Coin Abacus",
+  "description": "A three-coin abacus that counts debts without saying them.",
+  "spritesheetPath": "spritesheet.webp"
+}

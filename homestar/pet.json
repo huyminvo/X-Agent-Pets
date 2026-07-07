@@ -1,0 +1,6 @@
+{
+  "id": "homestar",
+  "displayName": "homestar",
+  "description": "A compact Codex pet inspired by the attached Homestar Runner reference, with no arms, a red star shirt, long white legs, and a propeller cap.",
+  "spritesheetPath": "spritesheet.webp"
+}

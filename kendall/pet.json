@@ -1,0 +1,20 @@
+{
+  "id": "kendall",
+  "displayName": "Kendall",
+  "description": "Chibi runway model striking poses in oversized blazers — quiet-luxury minimalism.",
+  "spritesheetPath": "spritesheet.webp",
+  "speechBubbles": {
+    "enabled": true,
+    "triggers": [
+      "active",
+      "summon",
+      "command"
+    ],
+    "oneLiners": [
+      "Camera-ready.",
+      "Strike a pose.",
+      "Effortless.",
+      "Walk it off."
+    ]
+  }
+}

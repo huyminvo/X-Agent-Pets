@@ -1,0 +1,81 @@
+{
+  "name": "Crab Companion",
+  "description": "A cozy crab-hood animated companion generated from the provided character reference.",
+  "author": "Codex user",
+  "version": "1.0.0",
+  "spritesheet": "spritesheet.webp",
+  "spriteSheet": "spritesheet.webp",
+  "image": "spritesheet.webp",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9,
+  "fps": 8,
+  "states": [
+    "idle",
+    "happy",
+    "wave",
+    "jump",
+    "sleep",
+    "surprised",
+    "shy",
+    "thinking",
+    "celebrate"
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "happy": {
+      "row": 1,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "wave": {
+      "row": 2,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "jump": {
+      "row": 3,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "sleep": {
+      "row": 4,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "surprised": {
+      "row": 5,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "shy": {
+      "row": 6,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "thinking": {
+      "row": 7,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "celebrate": {
+      "row": 8,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    }
+  }
+}

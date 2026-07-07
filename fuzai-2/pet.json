@@ -1,0 +1,6 @@
+{
+  "id": "fuzai",
+  "displayName": "\u798f\u4ed4",
+  "description": "A lively full-body pixel puppy companion with distinct action rows: idle, run right, run left, wave, jump/play, sad, focus, review, and rest/waiting.",
+  "spritesheetPath": "spritesheet.webp"
+}

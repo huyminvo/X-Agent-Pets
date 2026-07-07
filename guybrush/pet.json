@@ -1,0 +1,6 @@
+{
+  "id": "guybrush",
+  "displayName": "Guybrush",
+  "description": "A tiny mighty pirate in VGA-era pixel art, ready to keep watch in Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

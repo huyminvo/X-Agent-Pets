@@ -1,0 +1,6 @@
+{
+  "id": "kiln-scar-vent",
+  "displayName": "Kiln-Scar Vent",
+  "description": "A scarred vent tile that exhales only the memory of heat.",
+  "spritesheetPath": "spritesheet.webp"
+}

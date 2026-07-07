@@ -1,0 +1,6 @@
+{
+  "id": "guga-guga",
+  "displayName": "\u5495\u560e\u5495\u560e",
+  "description": "A Codex pet that uses the supplied \u5495\u560e\u5495\u560e reference image directly.",
+  "spritesheetPath": "spritesheet.webp"
+}

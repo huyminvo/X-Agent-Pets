@@ -1,0 +1,6 @@
+{
+  "id": "jeeves",
+  "displayName": "Jeeves",
+  "description": "A helpful butler companion for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

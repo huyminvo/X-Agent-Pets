@@ -1,0 +1,6 @@
+{
+  "id": "glass-file-ledger",
+  "displayName": "Glass File Ledger",
+  "description": "A tiny translucent glass file ledger pet with a compact book-like body and tabbed file edge.",
+  "spritesheetPath": "spritesheet.webp"
+}

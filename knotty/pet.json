@@ -1,0 +1,6 @@
+{
+  "id": "knotty",
+  "displayName": "Knotty",
+  "description": "A tiny animated interlocking-knot Codex companion with a sweet expressive face.",
+  "spritesheetPath": "spritesheet.webp"
+}

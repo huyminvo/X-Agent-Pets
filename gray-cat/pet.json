@@ -1,0 +1,6 @@
+{
+  "id": "gray-cat",
+  "displayName": "Gray Cat",
+  "description": "A compact gray pixel cat desktop pet based on the supplied reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

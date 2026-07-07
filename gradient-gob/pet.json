@@ -1,0 +1,6 @@
+{
+  "id": "gradient-gob",
+  "displayName": "Gradient Gob",
+  "description": "A tiny sloped gob that slides uphill against reason.",
+  "spritesheetPath": "spritesheet.webp"
+}

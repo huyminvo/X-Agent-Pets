@@ -1,0 +1,6 @@
+{
+  "id": "heart-ledger-stamp",
+  "displayName": "Heart-Ledger Stamp",
+  "description": "A small wax-ledger stamp that remembers debts of the heart without writing them down.",
+  "spritesheetPath": "spritesheet.webp"
+}

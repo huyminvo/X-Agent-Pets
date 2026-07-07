@@ -1,0 +1,6 @@
+{
+  "id": "kraken",
+  "displayName": "Kraken",
+  "description": "A Kraken-themed blue octopus agent in an IBM-ish sticker style.",
+  "spritesheetPath": "spritesheet.webp"
+}

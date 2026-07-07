@@ -1,0 +1,64 @@
+{
+  "id": "jingliu",
+  "displayName": "镜流",
+  "description": "一位清冷孤绝的月下剑客，曾为仙舟罗浮剑首与云上五骁之一，在堕入魔阴后重返世间。",
+  "spritesheetPath": "spritesheet.webp",
+  "schemaNote": "前四个字段兼容 Codex 标准 pet.json；其余字段为自定义人物设定扩展。",
+  "characterProfile": {
+    "franchise": "崩坏：星穹铁道",
+    "officialName": "镜流",
+    "verifiedAsOf": "2026-05-06",
+    "background": "官方资料显示，镜流曾是守护仙舟「罗浮」的剑首，也是昔日云上五骁成员之一。后来她堕入魔阴，被云骑军追缉，随后销声匿迹；如今再度归来，立场与目的都带着强烈的不确定性。",
+    "personality": "整体气质清冷、寡言、克制而疏离，像月光一样冷冽。她并非外放张扬的类型，而是把锋芒藏在沉静之下，给人一种高洁、危险、历经沧桑的压迫感。",
+    "petPersona": "适合塑造成安静、凛然、带月色与剑意的宠物形象；平时动作克制利落，偶尔显出危险感与旧日传奇的距离感。",
+    "motifs": [
+      "月光",
+      "长剑",
+      "冷冽",
+      "旧日传奇",
+      "师者",
+      "魔阴"
+    ],
+    "visualTraits": {
+      "hair": "浅色至银白的长发",
+      "eyes": "本次核对到的官方文字来源未给出稳定文本描述；官方常见视觉呈现为红色眼眸",
+      "signatureLook": [
+        "黑纱覆眼",
+        "持剑",
+        "冷色调服饰",
+        "月下剑客气质"
+      ]
+    },
+    "preferences": {
+      "hobbies": null,
+      "likes": null,
+      "dislikes": null,
+      "notes": "截至 2026-05-06，本次核对到的官方公开来源里，未找到镜流明确写出的爱好、喜好或厌恶条目。"
+    },
+    "measurements": {
+      "height": null,
+      "weight": null,
+      "notes": "截至 2026-05-06，本次核对到的官方公开来源里，未找到镜流的官方身高或体重数据。"
+    },
+    "sourceAttribution": [
+      {
+        "type": "official_video",
+        "title": "Keeping up with Star Rail — Jingliu: Great Teachers Beget Great Pupils | Honkai: Star Rail",
+        "url": "https://www.youtube.com/watch?v=HjuR6iKcCc4",
+        "evidence": "官方视频简介确认她曾为仙舟罗浮剑首、云上五骁成员之一，后堕入魔阴、被追缉并消失，如今再次归来。"
+      },
+      {
+        "type": "official_video",
+        "title": "Jingliu Trailer — \"Swordward\" | Honkai: Star Rail",
+        "url": "https://www.youtube.com/watch?v=so8V5dAli-Q",
+        "evidence": "官方角色预告强调她与剑、月色、冷冽压迫感相关的角色印象，可作为气质与宠物演绎参考。"
+      },
+      {
+        "type": "official_video",
+        "title": "Honkai: Star Rail Animated Short: \"A Flash\"",
+        "url": "https://www.youtube.com/watch?v=8-MFg_0wY4U",
+        "evidence": "官方动画短片进一步强化了她背负旧日誓言、漫长孤行与冷月意象的叙事气质。"
+      }
+    ]
+  }
+}

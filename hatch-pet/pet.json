@@ -1,0 +1,6 @@
+{
+  "id": "hatch-pet",
+  "displayName": "\u82b1\u82b1",
+  "description": "A fluffy white kitten companion with richer idle, running, jumping, waving, waiting, and review animations.",
+  "spritesheetPath": "spritesheet.png"
+}
