@@ -1,0 +1,9 @@
+{
+  "id": "ahri-kda",
+  "displayName": "KDA阿狸",
+  "description": "KDA阿狸是以舞台女团主唱气质呈现的九尾狐角色。她有银紫色长发、狐耳、九尾和黑白高光舞台服，整体风格成熟、自信、华丽。",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person",
+  "source": "fan-made",
+  "sourceId": "ahri-kda"
+}

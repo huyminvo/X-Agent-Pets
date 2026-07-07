@@ -1,0 +1,6 @@
+{
+  "id": "birch-ledger-block",
+  "displayName": "Birch Ledger Block",
+  "description": "A compact birch ledger block with one recessed groove and clean rounded corners.",
+  "spritesheetPath": "spritesheet.webp"
+}

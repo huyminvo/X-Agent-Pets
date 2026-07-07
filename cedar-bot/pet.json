@@ -1,0 +1,6 @@
+{
+  "id": "cedar-bot",
+  "displayName": "Cedar Bot",
+  "description": "A tiny CedarClaw robot companion with a white rounded shell, purple-blue visor, glowing eyes, and a small antenna.",
+  "spritesheetPath": "spritesheet.webp"
+}

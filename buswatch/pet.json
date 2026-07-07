@@ -1,0 +1,6 @@
+{
+  "id": "buswatch",
+  "displayName": "Buswatch",
+  "description": "A quiet realtime bus-watch cat for EtherCAT, SPI timing, embedded firmware, and FPGA work.",
+  "spritesheetPath": "spritesheet.webp"
+}

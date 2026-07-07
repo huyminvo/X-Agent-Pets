@@ -1,0 +1,18 @@
+{
+  "id": "bombardiro",
+  "displayName": "Bombardiro",
+  "description": "Bombardiro is a compact Codex digital pet inspired by Bombardiro Crocodilo, a surreal crocodile bomber-plane from Italian brainrot.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot",
+    "surreal"
+  ],
+  "tags": [
+    "brainrot",
+    "bombardiro-crocodilo",
+    "crocodile",
+    "airplane",
+    "meme"
+  ]
+}

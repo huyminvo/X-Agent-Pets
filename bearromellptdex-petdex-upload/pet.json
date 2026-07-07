@@ -1,0 +1,14 @@
+{
+  "name": "Bearromellptdex",
+  "slug": "bearromellptdex",
+  "description": "A mellow brown bear companion with walking, waving, sitting, crying, laptop, and magnifying glass animations.",
+  "author": "User",
+  "tags": ["bear", "mellow", "cozy", "desk", "gentle"],
+  "vibes": ["mellow", "cozy", "quiet"],
+  "kind": "custom",
+  "spritesheet": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

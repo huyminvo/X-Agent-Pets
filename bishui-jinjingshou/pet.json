@@ -1,0 +1,8 @@
+{
+  "id": "bishui-jinjingshou",
+  "displayName": "\u907f\u6c34\u91d1\u775b\u517d",
+  "description": "\u4e00\u53ea\u8d64\u7ea2\u9e92\u9e9f\u7cfb\u684c\u9762\u5ba0\u7269\uff0c\u9f99\u53e3\u3001\u72ee\u5934\u3001\u9e7f\u89d2\u3001\u91d1\u775b\u3001\u9c7c\u9cde\u3001\u864e\u722a\u4e0e\u725b\u5c3e\u517c\u5177\uff0c\u80fd\u817e\u4e91\u6d6e\u6c34\u3002",
+  "spritesheetPath": "spritesheet.png",
+  "draft": true,
+  "notes": "Clean preview package for testing. The spritesheet uses the cleaned PNG atlas; it still needs manual edge/crop polish, baseline normalization, and final WebP export before polished use."
+}

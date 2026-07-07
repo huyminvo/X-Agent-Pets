@@ -1,0 +1,6 @@
+{
+    "id":  "basketball-duck",
+    "displayName":  "Basketball Duck",
+    "description":  "A cute white-haired duck pet who dribbles a basketball while running, cries when tasks fail, and smiles happily when work succeeds.",
+    "spritesheetPath":  "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "black-dust-gauge",
+  "displayName": "Black Dust Gauge",
+  "description": "A gauge with no numbers that still knows the dust is rising.",
+  "spritesheetPath": "spritesheet.webp"
+}

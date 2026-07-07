@@ -1,0 +1,6 @@
+{
+  "id": "blue-maid",
+  "displayName": "Blue Maid",
+  "description": "A tiny blue-haired pixel maid pet based directly on the supplied photo references.",
+  "spritesheetPath": "spritesheet.webp"
+}

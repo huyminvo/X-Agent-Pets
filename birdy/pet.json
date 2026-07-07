@@ -1,0 +1,134 @@
+{
+  "id": "birdy",
+  "displayName": "Birdy",
+  "description": "Birdy is a friendly pixel-art shanque desktop companion. This atlas is generated from the approved 9-state image-gen reference sheet so each action has its own pose and expression.",
+  "packageName": "birdy",
+  "sourceImage": "/Users/horizon/Documents/Codex/2026-05-09/files-mentioned-by-the-user-png/birdy/birdy-state-reference.png",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "actions": [
+      "idle",
+      "running-right",
+      "running-left",
+      "jumping",
+      "waving",
+      "failed",
+      "waiting",
+      "review",
+      "running"
+    ],
+    "frameCounts": {
+      "idle": 6,
+      "running-right": 8,
+      "running-left": 8,
+      "jumping": 6,
+      "waving": 6,
+      "failed": 6,
+      "waiting": 6,
+      "review": 6,
+      "running": 8
+    },
+    "review": "State-driven atlas with variable frame counts. Generated as 1536 x 1872, 8 columns x 9 rows, 192 x 208 cells; unused trailing cells are transparent."
+  },
+  "validation": {
+    "size": [
+      1536,
+      1872
+    ],
+    "rows": [
+      {
+        "action": "idle",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 176,
+        "maxWidth": 179,
+        "minHeight": 149,
+        "maxHeight": 151
+      },
+      {
+        "action": "running-right",
+        "frameCount": 8,
+        "emptyTrailingCells": 0,
+        "nonEmptyFrames": 8,
+        "minWidth": 161,
+        "maxWidth": 170,
+        "minHeight": 140,
+        "maxHeight": 163
+      },
+      {
+        "action": "running-left",
+        "frameCount": 8,
+        "emptyTrailingCells": 0,
+        "nonEmptyFrames": 8,
+        "minWidth": 162,
+        "maxWidth": 170,
+        "minHeight": 129,
+        "maxHeight": 146
+      },
+      {
+        "action": "jumping",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 154,
+        "maxWidth": 156,
+        "minHeight": 167,
+        "maxHeight": 205
+      },
+      {
+        "action": "waving",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 169,
+        "maxWidth": 170,
+        "minHeight": 121,
+        "maxHeight": 128
+      },
+      {
+        "action": "failed",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 162,
+        "maxWidth": 163,
+        "minHeight": 124,
+        "maxHeight": 138
+      },
+      {
+        "action": "waiting",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 172,
+        "maxWidth": 173,
+        "minHeight": 146,
+        "maxHeight": 147
+      },
+      {
+        "action": "review",
+        "frameCount": 6,
+        "emptyTrailingCells": 2,
+        "nonEmptyFrames": 6,
+        "minWidth": 172,
+        "maxWidth": 174,
+        "minHeight": 102,
+        "maxHeight": 103
+      },
+      {
+        "action": "running",
+        "frameCount": 8,
+        "emptyTrailingCells": 0,
+        "nonEmptyFrames": 8,
+        "minWidth": 149,
+        "maxWidth": 186,
+        "minHeight": 98,
+        "maxHeight": 112
+      }
+    ]
+  }
+}

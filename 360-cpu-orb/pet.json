@@ -1,0 +1,6 @@
+{
+  "id": "360-cpu-orb",
+  "displayName": "360 CPU Orb",
+  "description": "A 360-style floating CPU usage orb with live percent color and speed readouts.",
+  "spritesheetPath": "spritesheet.webp"
+}

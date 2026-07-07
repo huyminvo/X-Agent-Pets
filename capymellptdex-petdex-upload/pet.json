@@ -1,0 +1,14 @@
+{
+  "name": "Capymellptdex",
+  "slug": "capymellptdex",
+  "description": "A sleepy orange capybara companion with cozy cushion, rolling, napping, eating, and laptop animations.",
+  "author": "User",
+  "tags": ["capybara", "cozy", "sleepy", "desk", "focus"],
+  "vibes": ["cozy", "sleepy", "gentle"],
+  "kind": "custom",
+  "spritesheet": "spritesheet.png",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9
+}

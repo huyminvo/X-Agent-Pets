@@ -1,0 +1,6 @@
+{
+  "id": "blind-register-key",
+  "displayName": "Blind Register Key",
+  "description": "A square register keycap with no symbol and a tarnished underhook.",
+  "spritesheetPath": "spritesheet.webp"
+}

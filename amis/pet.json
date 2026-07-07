@@ -1,0 +1,6 @@
+{
+  "id": "amis",
+  "displayName": "Amis",
+  "description": "Q-version Amis digital pet based on the provided reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

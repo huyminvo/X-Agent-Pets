@@ -1,0 +1,6 @@
+{
+  "id": "carbon-copy-shard",
+  "displayName": "Carbon Copy Shard",
+  "description": "A carbon-paper shard that duplicates only the bruise of record.",
+  "spritesheetPath": "spritesheet.webp"
+}

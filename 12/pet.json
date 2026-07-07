@@ -1,0 +1,126 @@
+{
+    "name": "Q版动漫女孩",
+    "description": "基于参考图生成的Q版动漫桌宠",
+    "version": "1.0.0",
+    "size": {
+        "width": 1536,
+        "height": 1872
+    },
+    "grid": {
+        "columns": 8,
+        "rows": 9
+    },
+    "animations": {
+        "idle_blink": {
+            "frames": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "loop": true,
+            "description": "随机眨眼，自然站立"
+        },
+        "coding": {
+            "frames": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "loop": true,
+            "description": "抱着键盘打字"
+        },
+        "fix_bug": {
+            "frames": [
+                12,
+                13,
+                14,
+                15,
+                16,
+                17
+            ],
+            "loop": true,
+            "description": "拿扳手修Bug"
+        },
+        "error_shrug": {
+            "frames": [
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25
+            ],
+            "loop": false,
+            "description": "举着ERROR牌子无奈"
+        },
+        "waiting": {
+            "frames": [
+                26,
+                27,
+                28,
+                29,
+                30,
+                31
+            ],
+            "loop": true,
+            "description": "抱着进度条等待"
+        },
+        "success_celebrate": {
+            "frames": [
+                32,
+                33,
+                34,
+                35,
+                36
+            ],
+            "loop": false,
+            "description": "完成庆祝"
+        },
+        "peeking": {
+            "frames": [
+                37,
+                38,
+                39,
+                40,
+                41,
+                42,
+                43,
+                44
+            ],
+            "loop": true,
+            "description": "从边缘探头观察"
+        },
+        "sleeping": {
+            "frames": [
+                45,
+                46,
+                47,
+                48
+            ],
+            "loop": true,
+            "description": "趴着睡觉"
+        },
+        "remind_work": {
+            "frames": [
+                49,
+                50,
+                51,
+                52,
+                53,
+                54,
+                55,
+                56
+            ],
+            "loop": true,
+            "description": "叉腰提醒工作"
+        }
+    }
+}

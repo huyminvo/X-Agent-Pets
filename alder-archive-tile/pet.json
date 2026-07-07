@@ -1,0 +1,6 @@
+{
+  "id": "alder-archive-tile",
+  "displayName": "Alder Archive Tile",
+  "description": "A compact alder archive tile with one smooth inset plane and clean rounded corners.",
+  "spritesheetPath": "spritesheet.webp"
+}

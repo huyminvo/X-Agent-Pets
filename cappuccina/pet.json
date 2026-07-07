@@ -1,0 +1,18 @@
+{
+  "id": "cappuccina",
+  "displayName": "Cappuccina",
+  "description": "Cappuccina is a compact Codex digital pet inspired by Ballerina Cappuccina, with cozy espresso poise and Italian brainrot ballerina charm.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot",
+    "cozy"
+  ],
+  "tags": [
+    "brainrot",
+    "ballerina-cappuccina",
+    "coffee",
+    "ballerina",
+    "meme"
+  ]
+}

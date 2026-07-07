@@ -1,0 +1,70 @@
+{
+  "name": "black-dragon",
+  "displayName": "Black Dragon",
+  "description": "A tiny mischievous black dragon companion with glowing eyes, little wings, and cozy coding energy.",
+  "version": "1.0.0",
+  "author": "Kodnatthaphat Authaianurak",
+  "kind": "creature",
+  "vibe": [
+    "mischievous",
+    "edgy",
+    "cozy"
+  ],
+  "spritesheet": "spritesheet.webp",
+  "spritesheetPng": "spritesheet.png",
+  "grid": {
+    "columns": 8,
+    "rows": 9,
+    "frameWidth": 192,
+    "frameHeight": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "states": {
+    "idle": {
+      "row": 0,
+      "frames": 6,
+      "fps": 6
+    },
+    "runRight": {
+      "row": 1,
+      "frames": 8,
+      "fps": 10
+    },
+    "runLeft": {
+      "row": 2,
+      "frames": 8,
+      "fps": 10
+    },
+    "waving": {
+      "row": 3,
+      "frames": 4,
+      "fps": 6
+    },
+    "jumping": {
+      "row": 4,
+      "frames": 5,
+      "fps": 8
+    },
+    "failed": {
+      "row": 5,
+      "frames": 8,
+      "fps": 8
+    },
+    "waiting": {
+      "row": 6,
+      "frames": 6,
+      "fps": 5
+    },
+    "running": {
+      "row": 7,
+      "frames": 6,
+      "fps": 10
+    },
+    "review": {
+      "row": 8,
+      "frames": 6,
+      "fps": 5
+    }
+  }
+}

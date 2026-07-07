@@ -1,0 +1,6 @@
+{
+  "id": "balance-sealbox",
+  "displayName": "Balance Sealbox",
+  "description": "A small sealbox that stores the weight missing from the ledger.",
+  "spritesheetPath": "spritesheet.webp"
+}

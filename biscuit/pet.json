@@ -1,0 +1,12 @@
+{
+  "id": "biscuit",
+  "displayName": "Biscuit",
+  "description": "A warm, round cream-and-ginger cat.",
+  "animation": {
+    "durationSeconds": 16.6,
+    "sequence": ["stretch", "lieDown", "sleep", "sitUp"],
+    "loop": true
+  },
+  "spritesheetPath": "spritesheet.webp"
+}
+

@@ -1,0 +1,6 @@
+{
+    "spritesheetPath":  "spritesheet.webp",
+    "description":  "A compact Codex pet version of BanG Dream character Arisa Ichigaya, using the provided full-body reference image to preserve her recognizable chibi design, clothing, face, and hairstyle while ignoring any leftover edge fragments from adjacent characters.",
+    "displayName":  "市谷有咲",
+    "id":  "arisa-ichigaya-fullref"
+}

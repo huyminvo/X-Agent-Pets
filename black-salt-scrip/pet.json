@@ -1,0 +1,6 @@
+{
+  "id": "black-salt-scrip",
+  "displayName": "Black-Salt Scrip",
+  "description": "A salt-stained scrip token whose value is all aftertaste.",
+  "spritesheetPath": "spritesheet.webp"
+}

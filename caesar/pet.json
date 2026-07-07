@@ -1,0 +1,6 @@
+{
+  "id": "caesar",
+  "displayName": "Caesar",
+  "description": "A tiny pixel-adjacent Roman statesman companion inspired by Gaius Julius Caesar.",
+  "spritesheetPath": "spritesheet.webp"
+}

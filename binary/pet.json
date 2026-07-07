@@ -1,0 +1,6 @@
+{
+  "id": "binary",
+  "displayName": "Binary",
+  "description": "A modest binary hacker pixel companion.",
+  "spritesheetPath": "spritesheet.webp"
+}

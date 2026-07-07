@@ -1,0 +1,6 @@
+{
+  "id": "alder-ledger-block",
+  "displayName": "Alder Ledger Block",
+  "description": "A compact alder ledger block with one recessed groove and clean rounded corners.",
+  "spritesheetPath": "spritesheet.webp"
+}

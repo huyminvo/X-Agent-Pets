@@ -1,0 +1,6 @@
+{
+  "id": "azuki",
+  "displayName": "Azuki",
+  "description": "A custom hand-drawn Azuki pet for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

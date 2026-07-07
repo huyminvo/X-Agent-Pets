@@ -1,0 +1,6 @@
+{
+  "id": "chatgpt-from-01-magenta",
+  "displayName": "DigiPet-ChatGPT",
+  "description": "A Codex pet character designed based on ChatGPT.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "ash-pump",
+  "displayName": "Ash Pump",
+  "description": "A hand pump that pulls only ash back into the room.",
+  "spritesheetPath": "spritesheet.webp"
+}

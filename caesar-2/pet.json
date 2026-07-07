@@ -1,0 +1,6 @@
+{
+  "id": "caesar",
+  "displayName": "Caesar",
+  "description": "A compact Julius Caesar Codex pet with a laurel wreath, white toga, Roman armor accents, and a tiny red cloak.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "atom",
+  "displayName": "Atom",
+  "description": "A tiny heroic robot boy companion for bright, focused coding sessions.",
+  "spritesheetPath": "spritesheet.webp"
+}

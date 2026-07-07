@@ -1,0 +1,6 @@
+{
+  "id": "camus",
+  "displayName": "Camus",
+  "description": "A cute pixel-sprite Codex desktop pet based on the provided chibi bead-art Camus character.",
+  "spritesheetPath": "spritesheet.webp"
+}

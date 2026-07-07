@@ -1,0 +1,6 @@
+{
+  "id": "blind-key-coffer",
+  "displayName": "Blind Key Coffer",
+  "description": "A locked little coffer with no keyhole, listening from the forbidden room.",
+  "spritesheetPath": "spritesheet.webp"
+}

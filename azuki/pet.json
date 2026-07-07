@@ -1,0 +1,128 @@
+{
+  "id": "azuki",
+  "displayName": "Azuki",
+  "description": "A cream kitten desktop pet.",
+  "spritesheetPath": "spritesheet.webp",
+  "cellWidth": 192,
+  "cellHeight": 208,
+  "columns": 8,
+  "rows": 9,
+  "animationRows": [
+    {
+      "row": 0,
+      "action": "action-01",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-02-frame-010.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-03-frame-017.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-04-frame-021.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-05-frame-028.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-01/key-06-frame-035.png"
+      ]
+    },
+    {
+      "row": 1,
+      "action": "action-02",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-02-frame-011.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-03-frame-015.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-04-frame-018.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-05-frame-029.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-02/key-06-frame-035.png"
+      ]
+    },
+    {
+      "row": 2,
+      "action": "action-03",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-02-frame-008.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-03-frame-016.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-04-frame-024.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-05-frame-032.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-03/key-06-frame-040.png"
+      ]
+    },
+    {
+      "row": 3,
+      "action": "action-04",
+      "frameCount": 5,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-04/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-04/key-02-frame-008.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-04/key-03-frame-017.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-04/key-04-frame-023.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-04/key-05-frame-028.png"
+      ]
+    },
+    {
+      "row": 4,
+      "action": "action-05",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-02-frame-010.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-03-frame-019.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-04-frame-030.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-05-frame-037.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-05/key-06-frame-048.png"
+      ]
+    },
+    {
+      "row": 5,
+      "action": "action-06",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-02-frame-010.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-03-frame-020.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-04-frame-030.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-05-frame-040.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-06/key-06-frame-050.png"
+      ]
+    },
+    {
+      "row": 6,
+      "action": "action-07",
+      "frameCount": 7,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-02-frame-001.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-03-frame-002.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-04-frame-003.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-05-frame-004.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-06-frame-005.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-07/key-07-frame-006.png"
+      ]
+    },
+    {
+      "row": 7,
+      "action": "action-08",
+      "frameCount": 6,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-02-frame-007.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-03-frame-014.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-04-frame-021.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-05-frame-028.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-08/key-06-frame-035.png"
+      ]
+    },
+    {
+      "row": 8,
+      "action": "action-09",
+      "frameCount": 5,
+      "sourceFrames": [
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-09/key-01-frame-000.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-09/key-02-frame-006.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-09/key-03-frame-012.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-09/key-04-frame-015.png",
+        "/Users/imuuuu9/Documents/Codex/2026-05-30/files-mentioned-by-the-user-cat/restart-keyframes/action-09/key-05-frame-020.png"
+      ]
+    }
+  ]
+}

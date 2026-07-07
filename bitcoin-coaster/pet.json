@@ -1,0 +1,6 @@
+{
+  "id": "bitcoin-coaster",
+  "displayName": "Bitcoin Coaster",
+  "description": "A tiny cheerful Bitcoin coin riding a red roller-coaster car.",
+  "spritesheetPath": "spritesheet.webp"
+}

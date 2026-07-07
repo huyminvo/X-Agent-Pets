@@ -1,0 +1,46 @@
+{
+  "name": "Burger Cat",
+  "slug": "burger-cat",
+  "kind": "cat",
+  "description": "A cute American burger shop cat wearing a tiny apron, holding a cheeseburger.",
+  "tags": ["cat", "burger", "american", "cute", "food"],
+  "vibes": ["playful", "hungry", "cozy"],
+  "frame": {
+    "width": 192,
+    "height": 208
+  },
+  "states": {
+    "idle": {
+      "row": 0,
+      "frames": 9
+    },
+    "wave": {
+      "row": 1,
+      "frames": 9
+    },
+    "run": {
+      "row": 2,
+      "frames": 9
+    },
+    "failed": {
+      "row": 3,
+      "frames": 9
+    },
+    "review": {
+      "row": 4,
+      "frames": 9
+    },
+    "jump": {
+      "row": 5,
+      "frames": 9
+    },
+    "extra1": {
+      "row": 6,
+      "frames": 9
+    },
+    "extra2": {
+      "row": 7,
+      "frames": 9
+    }
+  }
+}

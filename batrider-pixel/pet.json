@@ -1,0 +1,6 @@
+{
+    "id":  "batrider-pixel",
+    "displayName":  "Batrider Pixel",
+    "description":  "A cute chibi 2D pixel pet inspired by the Batrider hero silhouette: a goggled rider on a bat mount, simplified for Codex pet animations.",
+    "spritesheetPath":  "spritesheet.webp"
+}
