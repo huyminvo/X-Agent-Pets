@@ -1,0 +1,6 @@
+{
+  "id": "programmer-chicken",
+  "displayName": "Programmer Chicken",
+  "description": "A compact programmer-themed chicken pet for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

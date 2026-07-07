@@ -1,0 +1,6 @@
+{
+  "id": "quiet-file-rail",
+  "displayName": "Quiet File Rail",
+  "description": "A short file rail segment with two capped ends and a dark center groove.",
+  "spritesheetPath": "spritesheet.webp"
+}

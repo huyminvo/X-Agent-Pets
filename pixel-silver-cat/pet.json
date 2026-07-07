@@ -1,0 +1,24 @@
+{
+  "id": "pixel-silver-cat",
+  "displayName": "Pixel Silver Cat",
+  "description": "Pixel-art Codex pet based on the provided white/silver cat reference: round face, large green eyes, pink nose, soft white fur, readable tiny silhouette.",
+  "sourceImage": "/Users/horizon/Downloads/image_485513b2.png",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "actions": [
+      "idle",
+      "running-right",
+      "running-left",
+      "waving",
+      "jumping",
+      "failed",
+      "waiting",
+      "pooping",
+      "eating"
+    ],
+    "review": "Verified as 1536 x 1872, 8 columns x 9 rows, 192 x 208 cells."
+  }
+}

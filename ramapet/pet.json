@@ -1,0 +1,12 @@
+{
+  "id": "ramapet",
+  "displayName": "Ramapet",
+  "description": "A chibi South African political satire pet with original expressive poses.",
+  "spritesheetPath": "spritesheet.webp",
+  "catchphrases": [
+    "Finish this code if you want to see money under the mattress",
+    "Work fast and I will send you to Phala Phala",
+    "If you dont finish the code I will send Mkhwanazi",
+    "Work your magic like you're from Limpopo"
+  ]
+}

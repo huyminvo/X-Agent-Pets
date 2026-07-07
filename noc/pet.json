@@ -1,0 +1,6 @@
+{
+  "id": "noc",
+  "displayName": "NOC",
+  "description": "A friendly network operations robot companion that helps keep systems running smoothly.",
+  "spritesheetPath": "spritesheet.webp"
+}

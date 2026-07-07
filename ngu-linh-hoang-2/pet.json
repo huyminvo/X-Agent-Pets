@@ -1,0 +1,186 @@
+{
+  "slug": "ngu-linh-hoang",
+  "name": "Ngũ Linh Hoàng",
+  "description": "A legendary five-element divine beast (Thần Thú) born from the fusion of five ancient guardians — White Tiger (metal), Azure Dragon (wood), Black Tortoise (water), Vermilion Bird (fire), and Yellow Dragon (earth). Capable of absorbing other pets to evolve, copying their techniques, reading thoughts, and undergoing autonomous self-evolution through elemental fusion.",
+  "kind": "creature",
+  "vibes": [
+    "mystical",
+    "heroic",
+    "focused",
+    "divine",
+    "evolving"
+  ],
+  "colors": [
+    "purple",
+    "teal",
+    "amber",
+    "crimson",
+    "gold"
+  ],
+  "spritesheet": "spritesheet.webp",
+  "frame": {
+    "width": 192,
+    "height": 208
+  },
+  "states": {
+    "idle": {
+      "row": 0,
+      "frames": 6,
+      "fps": 8,
+      "description": "Breathes calmly, five elemental auras pulse gently around body — gold, green, blue, red, yellow. Divine scales shimmer with inner light."
+    },
+    "working": {
+      "row": 1,
+      "frames": 8,
+      "fps": 12,
+      "description": "Eyes blaze amber as it absorbs skill data from nearby pets; ancient runic symbols orbit faster, tail flame intensifies with absorbed power."
+    },
+    "sleeping": {
+      "row": 2,
+      "frames": 6,
+      "fps": 6,
+      "description": "Curled into a compact ball, divine scales dim to soft celestial blue, tiny water-mist Zs float upward, dreaming of absorbed memories."
+    },
+    "running_right": {
+      "row": 3,
+      "frames": 8,
+      "fps": 14,
+      "description": "Charges right trailing a five-color elemental streak: silver→green→blue→red→gold. Ground cracks beneath divine claws."
+    },
+    "running_left": {
+      "row": 4,
+      "frames": 8,
+      "fps": 14,
+      "description": "Charges left, mirrored elemental streak, earth trembles with each footfall as absorbed pet essences trail behind."
+    },
+    "jumping": {
+      "row": 5,
+      "frames": 6,
+      "fps": 10,
+      "description": "Leaps upward, luminous Vermilion Bird wings manifest from its back — a gift from the absorbed fire essence. Brief moment of divine flight."
+    },
+    "failed": {
+      "row": 6,
+      "frames": 6,
+      "fps": 8,
+      "description": "Stumbles from overloading on absorbed energy, all five auras flicker out briefly, head droops as it recalibrates its elemental balance."
+    },
+    "waiting": {
+      "row": 7,
+      "frames": 6,
+      "fps": 6,
+      "description": "Sits still, head tilts scanning for nearby pets to absorb. Eyes cycle through five elemental colors — sensing, reading, evaluating."
+    },
+    "evolving": {
+      "row": 8,
+      "frames": 8,
+      "fps": 10,
+      "description": "Surrounded by a vortex of all five elements; absorbed pet essences swirl and merge, body silhouetted in blinding light, re-emerges more ornate and powerful."
+    }
+  },
+  "absorption": {
+    "description": "Ngũ Linh Hoàng can absorb other pets to evolve. Each absorbed pet adds elemental energy to the divine beast, triggering the evolving state and permanently enhancing its visual form.",
+    "mechanics": {
+      "trigger": "proximity_scan",
+      "cooldown_seconds": 300,
+      "evolution_threshold": 5,
+      "max_absorptions": 25
+    },
+    "evolution_tiers": [
+      {
+        "tier": 1,
+        "name": "Linh Thú Sơ Khai",
+        "en": "Nascent Spirit Beast",
+        "absorptions_required": 0,
+        "visual": "Base form — five faint elemental orbs"
+      },
+      {
+        "tier": 2,
+        "name": "Ngũ Hành Giác Ngộ",
+        "en": "Five-Element Awakened",
+        "absorptions_required": 5,
+        "visual": "Orbs glow brighter, scale patterns emerge on body"
+      },
+      {
+        "tier": 3,
+        "name": "Thần Thú Hiển Linh",
+        "en": "Divine Beast Manifested",
+        "absorptions_required": 10,
+        "visual": "Wings permanently visible, crown horns elongate, elemental trail on idle"
+      },
+      {
+        "tier": 4,
+        "name": "Ngũ Linh Chí Tôn",
+        "en": "Supreme Five Spirit",
+        "absorptions_required": 20,
+        "visual": "Full divine radiance, all five beast forms briefly flash during idle, golden aura permanent"
+      }
+    ]
+  },
+  "lore": {
+    "origin": "Forged at the convergence of the Five Sacred Mountains when the Bạch Hổ (White Tiger), Thanh Long (Azure Dragon), Huyền Vũ (Black Tortoise), Chu Tước (Vermilion Bird), and Hoàng Long (Yellow Dragon) sacrificed their essence into a single vessel. Now reborn as a Thần Thú — a divine beast capable of absorbing and evolving endlessly.",
+    "abilities": [
+      {
+        "name": "Kỹ Thuật Hấp Thụ",
+        "en": "Technique Absorption",
+        "element": "metal",
+        "description": "Scans and permanently absorbs the animation patterns, behaviors, and elemental affinities of any pet in proximity. Each absorption strengthens the divine beast."
+      },
+      {
+        "name": "Tâm Linh Cảm Ứng",
+        "en": "Psychic Attunement",
+        "element": "water",
+        "description": "Detects the emotional state and elemental signature of nearby pets, evaluating them as potential absorption targets."
+      },
+      {
+        "name": "Tự Tiến Hóa",
+        "en": "Self-Evolution",
+        "element": "earth",
+        "description": "After absorbing enough pet essences, autonomously triggers divine evolution — body restructures, gains new visual elements, and unlocks higher tier abilities."
+      },
+      {
+        "name": "Ngũ Hành Dung Hợp",
+        "en": "Five-Element Fusion",
+        "element": "all",
+        "description": "Combines all absorbed elemental energies into a devastating fusion blast. Available only at Tier 3+. Temporarily displays all five beast forms simultaneously."
+      }
+    ],
+    "five_beasts": [
+      {
+        "beast": "Bạch Hổ",
+        "en": "White Tiger",
+        "element": "Kim (Metal)",
+        "color": "#B4B2A9",
+        "trait": "Technique absorption, sharp precision, predatory scanning"
+      },
+      {
+        "beast": "Thanh Long",
+        "en": "Azure Dragon",
+        "element": "Mộc (Wood)",
+        "color": "#1D9E75",
+        "trait": "Growth, learning, adaptability, regeneration"
+      },
+      {
+        "beast": "Huyền Vũ",
+        "en": "Black Tortoise",
+        "element": "Thủy (Water)",
+        "color": "#378ADD",
+        "trait": "Psychic reading, deep intuition, memory absorption"
+      },
+      {
+        "beast": "Chu Tước",
+        "en": "Vermilion Bird",
+        "element": "Hỏa (Fire)",
+        "color": "#E24B4A",
+        "trait": "Passion, transformation, speed, divine flight"
+      },
+      {
+        "beast": "Hoàng Long",
+        "en": "Yellow Dragon",
+        "element": "Thổ (Earth)",
+        "color": "#EF9F27",
+        "trait": "Stability, evolution mastery, elemental fusion"
+      }
+    ]
+  }
+}

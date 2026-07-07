@@ -1,0 +1,6 @@
+{
+  "id": "president",
+  "displayName": "President",
+  "description": "A pet that represents the highest office in the land. It is a symbol of leadership and authority.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "prime-lab",
+  "displayName": "Prime Lab",
+  "description": "A tiny Primeagen-inspired lab-coat coder pet with a split ergonomic keyboard and red AKG-style headphones.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "rickmorty-duo",
+  "displayName": "RickMorty Duo",
+  "description": "A Codex-style duo pet with Rick leading and Morty following behind.",
+  "spritesheetPath": "spritesheet.webp"
+}

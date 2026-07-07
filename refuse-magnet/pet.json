@@ -1,0 +1,6 @@
+{
+  "id": "refuse-magnet",
+  "displayName": "Refuse Magnet",
+  "description": "A bent magnet that attracts only debts of discarded metal.",
+  "spritesheetPath": "spritesheet.webp"
+}

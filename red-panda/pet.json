@@ -1,0 +1,6 @@
+{
+  "id": "red-panda",
+  "displayName": "Red Panda",
+  "description": "A tiny red panda coding companion based on the uploaded red panda photos.",
+  "spritesheetPath": "spritesheet.webp"
+}

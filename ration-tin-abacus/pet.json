@@ -1,0 +1,6 @@
+{
+  "id": "ration-tin-abacus",
+  "displayName": "Ration Tin Abacus",
+  "description": "A small ration tin that counts empty portions without numbers.",
+  "spritesheetPath": "spritesheet.webp"
+}

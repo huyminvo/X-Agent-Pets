@@ -1,0 +1,6 @@
+{
+  "id": "ram",
+  "displayName": "Ram",
+  "description": "A RamPet PetDex from Mole.",
+  "spritesheetPath": "spritesheet.webp"
+}

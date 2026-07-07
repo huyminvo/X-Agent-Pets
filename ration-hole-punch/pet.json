@@ -1,0 +1,6 @@
+{
+  "id": "ration-hole-punch",
+  "displayName": "Ration Hole Punch",
+  "description": "A small punch that removes proof without ever making a number.",
+  "spritesheetPath": "spritesheet.webp"
+}

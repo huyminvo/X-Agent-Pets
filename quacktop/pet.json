@@ -1,0 +1,6 @@
+{
+  "id": "quacktop",
+  "displayName": "Quacktop",
+  "description": "Arcede's tiny rubber-duck debugging operator: calm, sharp, and impossible to ignore when the build needs explaining.",
+  "spritesheetPath": "spritesheet.webp"
+}

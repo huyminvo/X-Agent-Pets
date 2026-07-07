@@ -1,0 +1,22 @@
+{
+  "name": "openvid",
+  "description": "A futuristic, floating little robot shaped like the Openvid Play button.",
+  "author": "Tu Nombre",
+  "version": "1.1",
+  "spritesheet": "spritesheet.png",
+  "grid": {
+    "columns": 8,
+    "rows": 9
+  },
+  "animations": {
+    "idle":        { "row": 0, "frames": 8, "speed": 100 },
+    "move":        { "row": 1, "frames": 8, "speed": 120 },
+    "dash":        { "row": 2, "frames": 8, "speed": 80 },
+    "interact":    { "row": 3, "frames": 8, "speed": 120 },
+    "emotes":      { "row": 4, "frames": 8, "speed": 140 },
+    "status":      { "row": 5, "frames": 8, "speed": 140 },
+    "tools":       { "row": 6, "frames": 8, "speed": 110 },
+    "turn":        { "row": 7, "frames": 8, "speed": 100 },
+    "celebrate":   { "row": 8, "frames": 8, "speed": 90 }
+  }
+}

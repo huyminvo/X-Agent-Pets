@@ -1,0 +1,6 @@
+{
+  "id": "octocat",
+  "displayName": "Octocat",
+  "description": "A tiny Octocat-inspired coding companion with cat ears, a peach face, dark hood, and tentacle tail.",
+  "spritesheetPath": "spritesheet.webp"
+}

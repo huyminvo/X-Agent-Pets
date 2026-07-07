@@ -1,0 +1,7 @@
+{
+  "id": "penguin-chick",
+  "displayName": "Emperor Penguin Chick",
+  "description": "A Codex pet version of Emperor Penguin Chick.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal"
+}

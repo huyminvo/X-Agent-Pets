@@ -1,0 +1,6 @@
+{
+  "id": "paimo",
+  "displayName": "Paimo",
+  "description": "A tiny chibi white-haired celestial companion matching the provided reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

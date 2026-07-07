@@ -1,0 +1,6 @@
+{
+  "id": "orbitron",
+  "displayName": "Orbitron",
+  "description": "A hovering mechanical orb with glowing status lights.",
+  "spritesheetPath": "spritesheet.webp"
+}

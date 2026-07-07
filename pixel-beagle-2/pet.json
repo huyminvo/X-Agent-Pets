@@ -1,0 +1,6 @@
+{
+  "id": "pixel-beagle",
+  "displayName": "snoopy",
+  "description": "A compact pixel-art black-and-white beagle companion with many expressive faces.",
+  "spritesheetPath": "spritesheet.webp"
+}

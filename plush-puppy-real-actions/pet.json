@@ -1,0 +1,6 @@
+{
+  "id": "plush-puppy-real-actions",
+  "displayName": "Plush Puppy Real Actions",
+  "description": "A plush puppy Codex pet with generated eating, sleeping, laptop, jumping, waving, and walking animation frames.",
+  "spritesheetPath": "spritesheet.webp"
+}

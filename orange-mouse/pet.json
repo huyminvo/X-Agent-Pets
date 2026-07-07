@@ -1,0 +1,6 @@
+{
+  "id": "orange-mouse",
+  "displayName": "Orange Mouse",
+  "description": "参考右侧橙色小鼠制作的 Codex 宠物：戴着橙子皮帽子，闲置时会拿着荧光棒挥舞，悬停时会趴下，等待用户确认时坐下准备橙子，等待 Codex 输出时会继续吃橙子，成功输出后会举起荧光棒欢呼。左右拖动时会侧身爬行，向下拖动时会趴在地上。",
+  "spritesheetPath": "spritesheet.png"
+}

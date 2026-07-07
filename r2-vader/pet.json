@@ -1,0 +1,6 @@
+{
+  "id": "r2-vader",
+  "displayName": "r2-vader",
+  "description": "A tiny black-and-red spherical space droid companion inspired by the provided reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

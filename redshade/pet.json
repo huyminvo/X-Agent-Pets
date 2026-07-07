@@ -1,0 +1,6 @@
+{
+  "id": "redshade",
+  "displayName": "Ezio Editore",
+  "description": "Ezio Editore is a tiny red-hooded guardian of unfinished code. He patrols your branches, stares judgmentally at suspicious diffs, and silently questions why that “quick fix” touched 27 files. He celebrates clean builds, sulks at broken tests, and has absolutely no patience for commits named final_final_fixed_v3. Nothing is pushed. Everything is questioned.",
+  "spritesheetPath": "spritesheet.webp"
+}

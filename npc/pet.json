@@ -1,0 +1,6 @@
+{
+  "id": "npc",
+  "displayName": "NPC",
+  "description": "A compact Codex digital pet based on a faceless gray humanoid NPC with black dot eyes and a blank expression.",
+  "spritesheetPath": "spritesheet.webp"
+}

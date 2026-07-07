@@ -1,0 +1,6 @@
+{
+  "id": "panda",
+  "displayName": "Panda",
+  "description": "A round sketch-style panda companion for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

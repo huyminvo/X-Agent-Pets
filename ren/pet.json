@@ -1,0 +1,18 @@
+{
+  "id": "ren",
+  "displayName": "Ren",
+  "description": "A scrawny, manic Chihuahua pet with huge pink eyes, long ears, wiry limbs, and a furious little attitude.",
+  "tags": [
+    "Cartoon",
+    "Comedy",
+    "Dog",
+    "Small",
+    "Energetic",
+    "Nervous",
+    "Manic",
+    "Expressive",
+    "Humanoid",
+    "Slightly Unhinged"
+  ],
+  "spritesheetPath": "spritesheet.webp"
+}

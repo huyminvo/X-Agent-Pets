@@ -1,0 +1,6 @@
+{
+  "id": "rami",
+  "displayName": "Rami",
+  "description": "Pixel cartoon Schnauzer pet based on the provided reference; rests still unless clicked, then wags a short tail and smiles with tongue out.",
+  "spritesheetPath": "spritesheet.webp"
+}

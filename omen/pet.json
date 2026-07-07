@@ -1,0 +1,6 @@
+{
+    "id":  "omen",
+    "displayName":  "Omen",
+    "description":  "A compact shadow-cloak pet inspired by Omen from Valorant, with a mysterious hooded silhouette and teal spectral face slits.",
+    "spritesheetPath":  "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "OranDetect",
+  "displayName": "OranDetect",
+  "description": "A detective wearing an orange hat.",
+  "spritesheetPath": "spritesheet.webp"
+}

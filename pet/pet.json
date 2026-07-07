@@ -1,0 +1,18 @@
+{
+  "name": "Ovi",
+  "description": "A futuristic, floating little robot shaped like the Openvid Play button.",
+  "author": "Tu Nombre",
+  "version": "1.0",
+  "spritesheet": "spritesheet.webp",
+  "grid": {
+    "columns": 8,
+    "rows": 9
+  },
+  "animations": {
+    "idle": { "row": 0, "frames": 8, "speed": 100 },
+    "walk": { "row": 1, "frames": 8, "speed": 120 },
+    "record_screen": { "row": 2, "frames": 8, "speed": 150 },
+    "zoom_effect": { "row": 3, "frames": 8, "speed": 100 },
+    "sleep": { "row": 4, "frames": 4, "speed": 300 }
+  }
+}

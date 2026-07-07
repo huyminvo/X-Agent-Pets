@@ -1,0 +1,6 @@
+{
+  "id": "oath-record-spool",
+  "displayName": "Oath Record Spool",
+  "description": "A spool of blank record thread wound around a swallowed oath.",
+  "spritesheetPath": "spritesheet.webp"
+}

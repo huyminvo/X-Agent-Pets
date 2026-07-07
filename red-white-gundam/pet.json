@@ -1,0 +1,6 @@
+{
+  "id": "red-white-gundam",
+  "displayName": "\u7ea2\u767d\u9ad8\u8fbe",
+  "description": "A Codex pet based on the provided red-white Gundam reference, preserving the mecha silhouette and removing all scenery.",
+  "spritesheetPath": "spritesheet.webp"
+}

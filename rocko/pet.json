@@ -1,0 +1,9 @@
+{
+  "id": "rocko",
+  "displayName": "Rocko",
+  "description": "A nervous cartoon wallaby pet inspired by Rocko, wearing a loose blue shirt with purple triangles and oversized red shoes.",
+  "tags": [
+    "Rocko's Modern Life"
+  ],
+  "spritesheetPath": "spritesheet.webp"
+}
