@@ -1,0 +1,6 @@
+{
+  "id": "docket-pin",
+  "displayName": "Docket Pin",
+  "description": "A docket pin that fixes a blank case to the desk forever.",
+  "spritesheetPath": "spritesheet.webp"
+}

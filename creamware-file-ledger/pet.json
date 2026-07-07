@@ -1,0 +1,6 @@
+{
+  "id": "creamware-file-ledger",
+  "displayName": "Creamware File Ledger",
+  "description": "A compact creamware file ledger with tabbed ledger shape and a single dark file slit as its face marker.",
+  "spritesheetPath": "spritesheet.webp"
+}

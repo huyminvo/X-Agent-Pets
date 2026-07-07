@@ -1,0 +1,6 @@
+{
+  "id": "cyber-knight",
+  "displayName": "Cyber-Knight",
+  "description": "A generic cyberpunk mecha pet with obsidian armor, silver joints, neon-green triangular core, and green visor.",
+  "spritesheetPath": "spritesheet.webp"
+}

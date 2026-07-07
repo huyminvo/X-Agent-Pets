@@ -1,0 +1,6 @@
+{
+  "id": "ezio-supplemental",
+  "displayName": "Ezio Supplemental",
+  "description": "A chibi Ezio-style assassin desktop pet remapped to the Codex avatar overlay triggers: idle, drag, hover, running, waiting, failed, and review.",
+  "spritesheetPath": "spritesheet.webp"
+}

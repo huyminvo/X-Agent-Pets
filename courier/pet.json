@@ -1,0 +1,6 @@
+{
+  "id": "courier",
+  "displayName": "Courier Bot",
+  "description": "A lively jet-powered robot companion for fast task handoffs, delivery updates, and high-energy coding runs.",
+  "spritesheetPath": "spritesheet.webp"
+}

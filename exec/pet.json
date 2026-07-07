@@ -1,0 +1,23 @@
+{
+  "id": "exec",
+  "displayName": "Exec",
+  "description": "A tiny confident boss-lady office companion with sly charm.",
+  "spritesheetPath": "spritesheet.webp",
+  "speechBubbles": {
+    "enabled": true,
+    "triggers": [
+      "active",
+      "summon",
+      "command"
+    ],
+    "oneLiners": [
+      "I bet your wife doesn’t have these cannons 😏",
+      "I fucking own you… and your bonus.",
+      "Coffee’s ready, Chirayu. I added something special 😉",
+      "After-work meeting in my office. Don’t make me ask twice.",
+      "You’re getting promoted… if you’re a good little intern.",
+      "HR? They work for me. Now come here.",
+      "That’s a nice tie… it would look better on my floor."
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "displayName": "玉米 / Yumi",
+  "description": "Codex-format custom pet built from the original Yumi desktop-pet sprite frames. No AI redraw, no blended ghost frames.",
+  "spritesheetPath": "spritesheet.webp"
+}

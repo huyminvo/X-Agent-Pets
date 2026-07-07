@@ -1,0 +1,66 @@
+{
+  "id": "codex_angel_pet",
+  "displayName": "Codex Angel Pet",
+  "description": "Transparent white-haired chibi angel companion with aligned 8x9 actions.",
+  "spritesheetPath": "spritesheet.webp",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "columns": 8,
+  "rows": 9,
+  "states": [
+    {
+      "row": 0,
+      "name": "idle",
+      "label": "Idle",
+      "frames": 8
+    },
+    {
+      "row": 1,
+      "name": "running-right",
+      "label": "Run right",
+      "frames": 8
+    },
+    {
+      "row": 2,
+      "name": "running-left",
+      "label": "Run left",
+      "frames": 8
+    },
+    {
+      "row": 3,
+      "name": "think",
+      "label": "Think",
+      "frames": 8
+    },
+    {
+      "row": 4,
+      "name": "happy",
+      "label": "Happy",
+      "frames": 8
+    },
+    {
+      "row": 5,
+      "name": "failed",
+      "label": "Failed",
+      "frames": 8
+    },
+    {
+      "row": 6,
+      "name": "waiting",
+      "label": "Waiting",
+      "frames": 8
+    },
+    {
+      "row": 7,
+      "name": "review",
+      "label": "Review",
+      "frames": 8
+    },
+    {
+      "row": 8,
+      "name": "special",
+      "label": "Special",
+      "frames": 8
+    }
+  ]
+}

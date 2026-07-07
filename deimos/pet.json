@@ -1,0 +1,7 @@
+{
+  "id": "deimos",
+  "displayName": "Deimos",
+  "description": "Thief with 10dg sun+10 glaive.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "humanoid"
+}

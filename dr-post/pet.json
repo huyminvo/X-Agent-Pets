@@ -1,0 +1,6 @@
+{
+  "id": "dr-post",
+  "displayName": "Dr Post",
+  "description": "A head-only Yukkuri-style post companion built directly from the original pixel sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

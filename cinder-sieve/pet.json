@@ -1,0 +1,6 @@
+{
+  "id": "cinder-sieve",
+  "displayName": "Cinder Sieve",
+  "description": "A little ash sieve that keeps bad dreams from passing through.",
+  "spritesheetPath": "spritesheet.webp"
+}

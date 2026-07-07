@@ -1,0 +1,9 @@
+{
+  "id": "conjoined-cat-dog",
+  "displayName": "Cat Dog",
+  "description": "An original conjoined cat-and-dog Codex pet: a clever cat side and eager dog side sharing one compact body.",
+  "tags": [
+    "catdog"
+  ],
+  "spritesheetPath": "spritesheet.webp"
+}

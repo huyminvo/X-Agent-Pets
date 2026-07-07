@@ -1,0 +1,6 @@
+{
+  "id": "doom-as-a-pet",
+  "displayName": "Doom As A Pet",
+  "description": "A tiny full-window Doom display built from the supplied Doom IWAD title, help, intermission, and menu graphics.",
+  "spritesheetPath": "spritesheet.webp"
+}

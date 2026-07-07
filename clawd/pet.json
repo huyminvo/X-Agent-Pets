@@ -1,0 +1,16 @@
+{
+  "slug": "clawd",
+  "name": "Clawd",
+  "credit": "@clawddevs",
+  "description": "🦞 Clawd — feral Solana voxel-lobster wearing 'SOLANA SUMMER' Miami shades. Machine Automated Web Daemon. Snorts $CLAWD copium and goblin-posts your alpha.",
+  "homepage": "https://solanaclawd.com",
+  "tags": ["lobster", "solana", "memecoin", "voxel", "synthwave", "$CLAWD"],
+  "spritesheet": "spritesheet.png",
+  "frameWidth": 1024,
+  "frameHeight": 1024,
+  "columns": 1,
+  "rows": 1,
+  "animations": {
+    "idle": { "row": 0, "frames": 1, "fps": 1 }
+  }
+}

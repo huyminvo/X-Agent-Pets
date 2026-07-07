@@ -1,0 +1,6 @@
+{
+  "id": "crabby",
+  "displayName": "Crabby",
+  "description": "A tiny pixel-style crab companion for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

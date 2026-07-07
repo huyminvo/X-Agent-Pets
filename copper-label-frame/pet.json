@@ -1,0 +1,6 @@
+{
+  "id": "copper-label-frame",
+  "displayName": "Copper Label Frame",
+  "description": "A compact copper label frame with an empty inset and rounded corner rivets.",
+  "spritesheetPath": "spritesheet.webp"
+}

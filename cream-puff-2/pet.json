@@ -1,0 +1,6 @@
+{
+    "id":  "cream-puff",
+    "displayName":  "Cream Puff",
+    "description":  "A soft cream-colored chubby sticker-style Codex pet based on the provided character reference, with custom prompt-mapped actions.",
+    "spritesheetPath":  "spritesheet.webp"
+}

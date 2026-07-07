@@ -1,0 +1,6 @@
+{
+  "id": "famine-coin-purse",
+  "displayName": "Famine Coin Purse",
+  "description": "A sealed purse whose blank coins are heavier than food.",
+  "spritesheetPath": "spritesheet.webp"
+}

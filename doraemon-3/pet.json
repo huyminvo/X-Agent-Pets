@@ -1,0 +1,6 @@
+{
+  "id": "doraemon",
+  "displayName": "Doraemon",
+  "description": "A Doraemon-inspired blue-and-white helper pet with a red nose, bell collar, and small toolbox.",
+  "spritesheetPath": "spritesheet.webp"
+}

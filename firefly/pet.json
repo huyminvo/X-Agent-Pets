@@ -1,0 +1,6 @@
+{
+  "id": "firefly",
+  "displayName": "Firefly",
+  "description": "A tiny Codex digital pet version of \u6d41\u8424 / Firefly, defaulting to a seated chibi pose.",
+  "spritesheetPath": "spritesheet.webp"
+}

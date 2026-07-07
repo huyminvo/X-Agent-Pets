@@ -1,0 +1,6 @@
+{
+  "id": "crab-buddy",
+  "displayName": "Crab Buddy",
+  "description": "A tiny blocky orange Claude-like crab companion for Codex.",
+  "spritesheetPath": "spritesheet.webp"
+}

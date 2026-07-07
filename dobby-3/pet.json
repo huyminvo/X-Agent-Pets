@@ -1,0 +1,6 @@
+{
+  "id": "dobby",
+  "displayName": "Dobby",
+  "description": "A tiny fantasy helper-elf companion assembled from the supplied Dobby sprite sheet.",
+  "spritesheetPath": "spritesheet.webp"
+}

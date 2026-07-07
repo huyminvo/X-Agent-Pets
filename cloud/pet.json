@@ -1,0 +1,6 @@
+{
+  "id": "cloud",
+  "displayName": "Cloud",
+  "description": "A Codex digital pet inspired by Final Fantasy VII's Cloud, simplified into a compact chibi sprite companion.",
+  "spritesheetPath": "spritesheet.webp"
+}

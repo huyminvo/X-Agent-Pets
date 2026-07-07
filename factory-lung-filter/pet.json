@@ -1,0 +1,6 @@
+{
+  "id": "factory-lung-filter",
+  "displayName": "Factory Lung Filter",
+  "description": "A ribbed filter canister that breathes like a sealed shift.",
+  "spritesheetPath": "spritesheet.webp"
+}

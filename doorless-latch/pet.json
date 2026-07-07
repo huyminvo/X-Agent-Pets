@@ -1,0 +1,6 @@
+{
+  "id": "doorless-latch",
+  "displayName": "Doorless Latch",
+  "description": "A freestanding latch plate with no door and one wrong key slot.",
+  "spritesheetPath": "spritesheet.webp"
+}

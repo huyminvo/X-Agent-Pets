@@ -1,0 +1,6 @@
+{
+  "id": "dealer",
+  "displayName": "Dealer",
+  "description": "A tiny Buckshot Roulette-style dealer pet made of only a skull-mask head and pale hands holding a compact shotgun.",
+  "spritesheetPath": "spritesheet.webp"
+}

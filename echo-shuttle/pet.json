@@ -1,0 +1,6 @@
+{
+  "id": "echo-shuttle",
+  "displayName": "Echo Shuttle",
+  "description": "A weaving shuttle with trapped red thread and an amber side-glint.",
+  "spritesheetPath": "spritesheet.webp"
+}

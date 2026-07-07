@@ -1,0 +1,6 @@
+{
+  "id": "clawd",
+  "displayName": "Clawd",
+  "description": "A tiny pixel Clawd companion made from your sticker GIFs.",
+  "spritesheetPath": "spritesheet.webp"
+}

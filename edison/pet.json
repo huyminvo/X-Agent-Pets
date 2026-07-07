@@ -1,0 +1,6 @@
+{
+  "id": "edison",
+  "displayName": "Edison",
+  "description": "A tiny Thomas Edison-inspired inventor companion.",
+  "spritesheetPath": "spritesheet.webp"
+}

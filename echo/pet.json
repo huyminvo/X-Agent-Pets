@@ -1,0 +1,6 @@
+{
+  "id": "echo",
+  "displayName": "Echo",
+  "description": "A compact Codex-style pet based on the portrait, with tousled black hair, oversized white headphones, and a pale hoodie.",
+  "spritesheetPath": "spritesheet.webp"
+}

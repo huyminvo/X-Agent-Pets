@@ -1,0 +1,6 @@
+{
+  "id": "clippy",
+  "displayName": "Clippy",
+  "description": "A classic paperclip assistant rebuilt from Microsoft Agent animation frames.",
+  "spritesheetPath": "spritesheet.webp"
+}

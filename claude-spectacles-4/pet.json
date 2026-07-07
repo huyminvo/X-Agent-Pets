@@ -1,0 +1,81 @@
+{
+  "id": "claude-spectacles",
+  "displayName": "Claude Spectacles",
+  "description": "A Claude-focused German Rex variant of Pixel Spectacles: a warm black-and-white pixel cat with yellow eyes, slightly larger ears, a warmer white face and chest, subtle curly coat marks, and rows documented for Claude states.",
+  "spritesheetPath": "spritesheet.webp",
+  "stateContract": {
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "columns": 8,
+    "rows": 9,
+    "sourcePet": "/Users/hesimeng1/pet/pixel-spectacles",
+    "variantNotes": "Regenerated from the source pet shape as a German Rex-inspired variant: preserved yellow eyes, added subtle curly coat texture and curled-whisker cues, slightly enlarged ear detail, warmer white fur, and a small black/white fur balance adjustment."
+  },
+  "claudeStates": {
+    "idle": {
+      "row": 0,
+      "frames": 6,
+      "label": "Idle",
+      "description": "Waiting for user input, no active task."
+    },
+    "thinking": {
+      "row": 8,
+      "frames": 6,
+      "label": "Thinking",
+      "description": "Reasoning or analyzing before tool calls."
+    },
+    "tool_use": {
+      "row": 7,
+      "frames": 6,
+      "label": "Tool use",
+      "description": "Executing Read, Edit, Bash, Agent, or other tools."
+    },
+    "waiting_for_permission": {
+      "row": 6,
+      "frames": 6,
+      "label": "Waiting for permission",
+      "description": "Tool call needs user approval or permission-mode changes."
+    },
+    "waiting_for_user_input": {
+      "row": 3,
+      "frames": 4,
+      "label": "Waiting for user input",
+      "description": "Blocked on an AskUserQuestion-style user reply."
+    },
+    "background_task_running": {
+      "row": 7,
+      "frames": 6,
+      "label": "Background task running",
+      "description": "A bash/background monitor or async agent continues outside the main thread."
+    },
+    "compacting": {
+      "row": 8,
+      "frames": 6,
+      "label": "Compacting",
+      "description": "Context is being summarized or compressed."
+    },
+    "plan_mode": {
+      "row": 8,
+      "frames": 6,
+      "label": "Plan mode",
+      "description": "Read-only exploration and planning before execution."
+    },
+    "interrupted": {
+      "row": 5,
+      "frames": 8,
+      "label": "Interrupted / Stopped",
+      "description": "User interrupted with Esc or the task was stopped."
+    }
+  },
+  "petdexCompatibility": {
+    "idle": "idle",
+    "running": "tool_use",
+    "review": "thinking",
+    "waiting": "waiting_for_permission",
+    "waving": "waiting_for_user_input",
+    "failed": "interrupted",
+    "jumping": "plan_mode",
+    "running-right": "drag-right",
+    "running-left": "drag-left"
+  }
+}

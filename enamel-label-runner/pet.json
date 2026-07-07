@@ -1,0 +1,6 @@
+{
+  "id": "enamel-label-runner",
+  "displayName": "Enamel Label Runner",
+  "description": "A compact enamel label runner with a blank inset, rounded ends, and tiny locomotion marks built into the object body.",
+  "spritesheetPath": "spritesheet.webp"
+}

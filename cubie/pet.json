@@ -1,0 +1,6 @@
+{
+  "id": "cubie",
+  "displayName": "Cubie",
+  "description": "A tiny Rubik's cube companion that twists, waddles, and celebrates solved little moments.",
+  "spritesheetPath": "spritesheet.webp"
+}

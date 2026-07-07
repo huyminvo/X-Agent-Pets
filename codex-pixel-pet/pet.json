@@ -1,0 +1,163 @@
+{
+  "name": "codex_pixel_pup",
+  "version": "1.0",
+  "spritesheet": "spritesheet.png",
+  "sheet_size": [
+    1536,
+    1872
+  ],
+  "frame_size": [
+    192,
+    208
+  ],
+  "grid": [
+    8,
+    9
+  ],
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frame_count": 8,
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "blink": {
+      "row": 1,
+      "frame_count": 8,
+      "frames": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "walk": {
+      "row": 2,
+      "frame_count": 8,
+      "frames": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "happy": {
+      "row": 3,
+      "frame_count": 8,
+      "frames": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "sleep": {
+      "row": 4,
+      "frame_count": 8,
+      "frames": [
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "wag": {
+      "row": 5,
+      "frame_count": 8,
+      "frames": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "look": {
+      "row": 6,
+      "frame_count": 8,
+      "frames": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "sad": {
+      "row": 7,
+      "frame_count": 8,
+      "frames": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "fps": 6,
+      "loop": true
+    },
+    "eat": {
+      "row": 8,
+      "frame_count": 8,
+      "frames": [
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "fps": 6,
+      "loop": true
+    }
+  }
+}

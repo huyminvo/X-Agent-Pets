@@ -1,0 +1,6 @@
+{
+  "id": "coding-cat-pet",
+  "displayName": "Coding Cat",
+  "description": "A pixel coding cat companion adapted from the user's six-state sprite sheet.",
+  "spritesheetPath": "spritesheet.webp"
+}

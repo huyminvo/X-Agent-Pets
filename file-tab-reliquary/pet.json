@@ -1,0 +1,6 @@
+{
+  "id": "file-tab-reliquary",
+  "displayName": "File-Tab Reliquary",
+  "description": "A blank file tab carrying a sealed relic of unpaid proof.",
+  "spritesheetPath": "spritesheet.webp"
+}

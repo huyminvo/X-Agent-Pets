@@ -1,0 +1,6 @@
+{
+  "id": "felt-label-runner",
+  "displayName": "Felt Label Runner",
+  "description": "A tiny felt clothing label mascot built for running animations.",
+  "spritesheetPath": "spritesheet.webp"
+}

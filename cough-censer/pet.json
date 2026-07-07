@@ -1,0 +1,6 @@
+{
+  "id": "cough-censer",
+  "displayName": "Cough Censer",
+  "description": "A sealed pocket censer whose vents trap bad air instead of releasing smoke.",
+  "spritesheetPath": "spritesheet.webp"
+}
