@@ -1,0 +1,9 @@
+{
+  "id": "lucky",
+  "displayName": "Lucky",
+  "description": "Desktop Planter Series - Lucky. A tiny lucky four-leaf clover planter, keeping you company with blinks, hops, and swaying leaves.",
+  "series": "Desktop Planter Series",
+  "seriesNameZh": "桌面盆栽系列",
+  "plantNameZh": "代表幸运的四叶草",
+  "spritesheetPath": "assets/spritesheet.webp"
+}

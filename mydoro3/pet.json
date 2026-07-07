@@ -1,0 +1,11 @@
+{
+  "id": "mydoro3",
+  "displayName": "myDoro3",
+  "description": "A pink-purple-haired chibi Doro pet with purple eyes, a curled rose hair ornament, and a rounded white plush-like body.",
+  "spritesheetPath": "spritesheet.webp",
+  "eyeFollow": {
+    "baseImagePath": "eye-follow/idle-base-no-pupils.png",
+    "leftPupilPath": "eye-follow/left-pupil.png",
+    "rightPupilPath": "eye-follow/right-pupil.png"
+  }
+}

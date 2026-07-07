@@ -1,0 +1,7 @@
+{
+  "id": "luluka",
+  "displayName": "Luluka",
+  "description": "A tiny Codex digital pet inspired by Luluka, the blonde magical-girl character from the provided reference images.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}

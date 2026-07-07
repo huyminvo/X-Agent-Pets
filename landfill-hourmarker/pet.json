@@ -1,0 +1,6 @@
+{
+  "id": "landfill-hourmarker",
+  "displayName": "Landfill Hourmarker",
+  "description": "A tiny hourmarker with black grit that will not finish falling.",
+  "spritesheetPath": "spritesheet.webp"
+}

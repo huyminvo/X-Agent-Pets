@@ -1,0 +1,6 @@
+{
+  "id": "lumi",
+  "displayName": "Lumi",
+  "description": "A compact Codex digital pet based on the provided white-haired character reference.",
+  "spritesheetPath": "spritesheet.webp"
+}

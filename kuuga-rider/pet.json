@@ -1,0 +1,6 @@
+{
+  "id": "kuuga-rider",
+  "displayName": "Kuuga Rider",
+  "description": "A chibi red-and-gold armored rider pet converted from a generated spritesheet.",
+  "spritesheetPath": "spritesheet.webp"
+}

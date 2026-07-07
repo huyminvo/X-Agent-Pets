@@ -1,0 +1,6 @@
+{
+  "id": "kuuga-black-rider-custom",
+  "displayName": "Kuuga Black Rider Custom",
+  "description": "A chibi black-and-gold armored rider pet converted from the provided spritesheet and cleaned for Codex pet transparency.",
+  "spritesheetPath": "spritesheet.webp"
+}

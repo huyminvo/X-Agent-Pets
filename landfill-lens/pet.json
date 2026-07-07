@@ -1,0 +1,6 @@
+{
+  "id": "landfill-lens",
+  "displayName": "Landfill Lens",
+  "description": "A landfill-glass lens that keeps looking for what was thrown away.",
+  "spritesheetPath": "spritesheet.webp"
+}

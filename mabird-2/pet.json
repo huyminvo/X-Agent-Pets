@@ -1,0 +1,20 @@
+{
+  "name": "马鸟",
+  "slug": "mabird",
+  "type": "CREATURE",
+  "description": "A mystical horse-headed bird from Black Myth: Wukong, wearing a red Chinese hat with bronze coins. Clumsy but charming.",
+  "spritesheet": "sprite.webp",
+  "frameWidth": 192,
+  "frameHeight": 208,
+  "animations": {
+    "idle":      { "row": 0, "frames": 6, "fps": 6 },
+    "run_right": { "row": 1, "frames": 8, "fps": 8 },
+    "run_left":  { "row": 2, "frames": 8, "fps": 8 },
+    "wave":      { "row": 3, "frames": 4, "fps": 8 },
+    "jump":      { "row": 4, "frames": 5, "fps": 8 },
+    "fail":      { "row": 5, "frames": 8, "fps": 8 },
+    "wait":      { "row": 6, "frames": 6, "fps": 6 },
+    "sprint":    { "row": 7, "frames": 6, "fps": 10 },
+    "inspect":   { "row": 8, "frames": 6, "fps": 6 }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mute-mirror-plate",
+  "displayName": "Mute Mirror Plate",
+  "description": "A blind mirror plate holding a reflection that refuses to testify.",
+  "spritesheetPath": "spritesheet.webp"
+}

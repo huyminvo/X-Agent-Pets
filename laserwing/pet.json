@@ -1,0 +1,6 @@
+{
+    "spritesheetPath":  "spritesheet.webp",
+    "description":  "A tiny chibi pixel Gundam-style mecha with blue wing fins, green visor eyes, and a back-mounted blue laser burst while moving.",
+    "displayName":  "Gundam",
+    "id":  "laserwing"
+}

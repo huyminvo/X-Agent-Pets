@@ -1,0 +1,6 @@
+{
+  "id": "listening-horn-tin",
+  "displayName": "Listening Horn Tin",
+  "description": "A tin listening horn that stores the sound it never repeats.",
+  "spritesheetPath": "spritesheet.webp"
+}

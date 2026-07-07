@@ -1,0 +1,44 @@
+{
+  "id": "liuyi-xingxing",
+  "displayName": "六一星星",
+  "description": "从儿童节照片人物抠图并动漫化的原创桌宠 IP：红色点点裙、珍珠领、丸子头，触摸时出现星星彩圈反馈。",
+  "spritesheetPath": "spritesheet.webp",
+  "phrases": {
+    "idle": [
+      "今天也要闪闪发光呀。",
+      "六一快乐，保持天真。",
+      "我在这里陪你完成任务。"
+    ],
+    "touch": [
+      "叮！收到一颗快乐星星。",
+      "嘿嘿，别戳太快啦。",
+      "给你一个儿童节抱抱。"
+    ],
+    "running": [
+      "我正在努力处理中。",
+      "马上就好，星星加速中。"
+    ],
+    "failed": [
+      "有点卡住了，我们再试一次。"
+    ],
+    "review": [
+      "完成啦，来看看成果吧。"
+    ]
+  },
+  "sounds": {
+    "touch": "twinkle-touch.wav",
+    "success": "twinkle-touch.wav"
+  },
+  "interactions": {
+    "touch": {
+      "animation": "waving",
+      "effect": "touch-effect.png",
+      "sound": "twinkle-touch.wav",
+      "sayRandomFrom": "touch"
+    }
+  },
+  "source": {
+    "referenceImage": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-17\\files-mentioned-by-the-user-image\\liuyi-xingxing-pet-run\\references\\reference-01.png",
+    "baseCutout": "C:\\Users\\Administrator\\Documents\\Codex\\2026-05-17\\files-mentioned-by-the-user-image\\liuyi-xingxing-pet-run\\decoded\\base-cutout.png"
+  }
+}

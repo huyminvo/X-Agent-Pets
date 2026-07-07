@@ -1,0 +1,8 @@
+{
+  "id": "longlong-rx",
+  "name": "Longlong",
+  "displayName": "Longlong",
+  "description": "Cute chibi anime Codex pet with waiting, idle, running, success, and failure animations.",
+  "spritesheet": "spritesheet.png",
+  "spritesheetPath": "spritesheet.png"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "milkline-ticket",
+  "displayName": "Milkline Ticket",
+  "description": "A blank milkline ticket folded until it becomes a little lock.",
+  "spritesheetPath": "spritesheet.webp"
+}

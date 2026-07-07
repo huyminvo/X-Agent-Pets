@@ -1,0 +1,6 @@
+{
+  "id": "navi",
+  "displayName": "Navi",
+  "description": "A tiny glowing fairy companion inspired by classic fantasy adventure games, built as a compact Codex pixel pet.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "motika",
+  "displayName": "Motika",
+  "description": "A head-only Yukkuri-style Motika companion built directly from the original pixel sprites.",
+  "spritesheetPath": "spritesheet.webp"
+}

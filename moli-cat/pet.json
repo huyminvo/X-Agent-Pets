@@ -1,0 +1,6 @@
+{
+  "id": "moli-cat",
+  "displayName": "Moli Cat",
+  "description": "A round green magical cat companion inspired by the provided reference images.",
+  "spritesheetPath": "spritesheet.webp"
+}

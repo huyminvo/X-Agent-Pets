@@ -1,0 +1,6 @@
+{
+  "id": "medusa",
+  "displayName": "Medusa",
+  "description": "A tiny Codex digital pet inspired by Medusa from Dropkick on My Devil, simplified into a friendly chibi sprite companion.",
+  "spritesheetPath": "spritesheet.webp"
+}

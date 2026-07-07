@@ -1,0 +1,6 @@
+{
+  "id": "memory-pincer",
+  "displayName": "Memory Pincer",
+  "description": "A small pincer that holds evidence too gently to release.",
+  "spritesheetPath": "spritesheet.webp"
+}

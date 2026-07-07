@@ -1,0 +1,6 @@
+{
+  "id": "mourning-tally",
+  "displayName": "Mourning Tally",
+  "description": "A small abacus-like tally charm that remembers losses without ever showing a number.",
+  "spritesheetPath": "spritesheet.webp"
+}

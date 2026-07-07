@@ -1,0 +1,6 @@
+{
+  "id": "mox",
+  "displayName": "Mox",
+  "description": "A tiny pixel pet based on the user's green-hooded round-eyed cat.",
+  "spritesheetPath": "spritesheet.webp"
+}

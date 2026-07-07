@@ -1,0 +1,6 @@
+{
+  "id": "leo-ultraman",
+  "displayName": "雷欧奥特曼",
+  "description": "雷欧奥特曼：默认蓝色胸灯，失败红色闪烁，成功绿色闪烁，左右移动带飞踢和打击动作。",
+  "spritesheetPath": "spritesheet.webp"
+}

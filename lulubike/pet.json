@@ -1,0 +1,6 @@
+{
+  "id": "lulubike",
+  "displayName": "骑车噜噜",
+  "description": "A soft 3D toy-style Lulu pet riding a cute bicycle, based on the provided three-view reference.",
+  "spritesheetPath": "spritesheet.webp"
+}

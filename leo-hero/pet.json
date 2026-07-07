@@ -1,0 +1,6 @@
+{
+  "id": "leo-hero",
+  "displayName": "Leo Hero",
+  "description": "A cute cartoon Leo hero pet based on the provided reference image.",
+  "spritesheetPath": "spritesheet.webp"
+}

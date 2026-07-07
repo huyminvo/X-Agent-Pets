@@ -1,0 +1,6 @@
+{
+  "id": "mosaic-invader",
+  "displayName": "Mosaic Invader",
+  "description": "A compact cyan tile-mosaic arcade alien pet with big white eyes, navy pupils, stubby antennae, and tiny legs.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mintconsole",
+  "displayName": "BMO",
+  "description": "A compact handheld game-console mascot with short BMO-like legs, calm idle face, and terminal-style status screens while working.",
+  "spritesheetPath": "spritesheet.webp"
+}

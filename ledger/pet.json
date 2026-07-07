@@ -1,0 +1,20 @@
+{
+  "id": "ledger",
+  "displayName": "Ledger",
+  "description": "A tidy vault-and-dashboard companion for skill building, project notes, and membership audits.",
+  "spritesheetPath": "spritesheet.webp",
+  "speechBubbles": {
+    "enabled": true,
+    "triggers": [
+      "active",
+      "summon",
+      "command"
+    ],
+    "oneLiners": [
+      "Counted, sealed, signed.",
+      "The ledger never lies.",
+      "Every entry has its place.",
+      "Tomorrow, today is a memory."
+    ]
+  }
+}

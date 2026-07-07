@@ -1,0 +1,20 @@
+{
+  "id": "louie",
+  "displayName": "Louie",
+  "description": "Marching Dogs brand mascot - a friendly canine companion representing the Marching Dogs LLC parent brand.",
+  "spritesheetPath": "spritesheet.webp",
+  "speechBubbles": {
+    "enabled": true,
+    "triggers": [
+      "active",
+      "summon",
+      "command"
+    ],
+    "oneLiners": [
+      "Woof!",
+      "Bark bark!",
+      "*tail wag*",
+      "Marching Dogs, march on!"
+    ]
+  }
+}

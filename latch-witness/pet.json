@@ -1,0 +1,6 @@
+{
+  "id": "latch-witness",
+  "displayName": "Latch Witness",
+  "description": "A loose latch that remembers the door it can no longer prove.",
+  "spritesheetPath": "spritesheet.webp"
+}

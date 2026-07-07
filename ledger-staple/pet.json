@@ -1,0 +1,6 @@
+{
+  "id": "ledger-staple",
+  "displayName": "Ledger Staple",
+  "description": "A bent staple that holds an account together by hurting the paper.",
+  "spritesheetPath": "spritesheet.webp"
+}

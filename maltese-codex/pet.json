@@ -1,0 +1,6 @@
+{
+  "id": "maltese-codex",
+  "displayName": "Maltese Codex",
+  "description": "A tiny Codex companion based on a simple Maltese line-dog mascot.",
+  "spritesheetPath": "spritesheet.webp"
+}

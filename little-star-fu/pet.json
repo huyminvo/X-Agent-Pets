@@ -1,0 +1,6 @@
+{
+  "id": "little-star-fu",
+  "displayName": "Little Star Fu",
+  "description": "A Codex-compatible Little Star Fu desktop pet assembled from the provided frame sheets.",
+  "spritesheetPath": "spritesheet.png"
+}

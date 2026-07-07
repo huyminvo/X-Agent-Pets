@@ -1,0 +1,6 @@
+{
+  "id": "moyu-cat",
+  "displayName": "摸鱼猫",
+  "description": "A black cat that pets a fish while resting, throws it away to work, and retrieves it after work.",
+  "spritesheetPath": "spritesheet.webp"
+}

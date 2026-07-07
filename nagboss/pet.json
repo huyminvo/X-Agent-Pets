@@ -1,0 +1,6 @@
+{
+  "id": "nagboss",
+  "displayName": "NagBoss",
+  "description": "A chibi duo pet: tiny nagging boss talks nonstop while the user stands nearby with an annoyed expression and a big hammer; default idle shows boss nagging, movement states show user hammering.",
+  "spritesheetPath": "spritesheet.webp"
+}
