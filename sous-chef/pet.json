@@ -1,0 +1,6 @@
+{
+  "id": "sous-chef",
+  "displayName": "Sous Chef",
+  "description": "A tiny sous-chef companion inspired by recipe audio-player work.",
+  "spritesheetPath": "spritesheet.webp"
+}

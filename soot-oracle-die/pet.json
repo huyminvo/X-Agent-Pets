@@ -1,0 +1,6 @@
+{
+  "id": "soot-oracle-die",
+  "displayName": "Soot Oracle Die",
+  "description": "single rounded die with blank pips, soot corners, and one off-center eye-pip; anchor: chance omens, divination anxiety, fate gaming.",
+  "spritesheetPath": "spritesheet.webp"
+}

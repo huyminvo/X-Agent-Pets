@@ -1,0 +1,18 @@
+{
+  "id": "tralala",
+  "displayName": "Tralala",
+  "description": "Tralala is a compact Codex digital pet inspired by Tralalero Tralala, the sneaker-wearing shark from Italian brainrot.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot",
+    "surreal"
+  ],
+  "tags": [
+    "brainrot",
+    "tralalero-tralala",
+    "shark",
+    "sneakers",
+    "meme"
+  ]
+}

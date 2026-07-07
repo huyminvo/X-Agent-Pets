@@ -1,0 +1,16 @@
+{
+    "id":  "saaya-star",
+    "name":  "Saaya Star",
+    "displayName":  "Saaya Star",
+    "description":  "Would you like to eat bread together?",
+    "spritesheetPath":  "spritesheet.webp",
+    "spritesheet":  "spritesheet.webp",
+    "atlas":  {
+                  "columns":  8,
+                  "rows":  9,
+                  "cellWidth":  192,
+                  "cellHeight":  208,
+                  "width":  1536,
+                  "height":  1872
+              }
+}

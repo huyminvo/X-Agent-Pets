@@ -1,0 +1,18 @@
+{
+  "id": "skibidi",
+  "displayName": "Skibidi",
+  "description": "Skibidi is a compact Codex digital pet inspired by Skibidi Toilet, with a goofy head peeking from a tiny toilet bowl.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot",
+    "surreal"
+  ],
+  "tags": [
+    "brainrot",
+    "skibidi-toilet",
+    "toilet",
+    "meme",
+    "web-series"
+  ]
+}

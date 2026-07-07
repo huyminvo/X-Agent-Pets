@@ -1,0 +1,6 @@
+{
+  "id": "sage",
+  "displayName": "Sage",
+  "description": "A compact Codex pet based on Sage from Valorant, using the provided Sage reference image for the high ponytail, white-gray robe, teal orbs, and healer styling.",
+  "spritesheetPath": "spritesheet.webp"
+}

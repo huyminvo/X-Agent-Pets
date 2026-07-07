@@ -1,0 +1,6 @@
+{
+  "id": "soot-filter-vane",
+  "displayName": "Soot Filter Vane",
+  "description": "A soot-black vane that filters the room by refusing to turn.",
+  "spritesheetPath": "spritesheet.webp"
+}

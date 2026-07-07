@@ -1,0 +1,6 @@
+{
+  "id": "trisolar",
+  "displayName": "Trisolar",
+  "description": "A tiny three-sun orbital system pet with calm chaotic motion and failure-state collision.",
+  "spritesheetPath": "spritesheet.webp"
+}

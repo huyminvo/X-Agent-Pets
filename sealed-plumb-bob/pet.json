@@ -1,0 +1,6 @@
+{
+  "id": "sealed-plumb-bob",
+  "displayName": "Sealed Plumb Bob",
+  "description": "A blackened plumb bob that remembers which room leaned away from the truth.",
+  "spritesheetPath": "spritesheet.webp"
+}

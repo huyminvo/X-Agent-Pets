@@ -1,0 +1,6 @@
+{
+    "id":  "signal-sprout",
+    "displayName":  "Signal Sprout",
+    "description":  "A compact dashboard helper inspired by recent IoT monitoring, inspection, GIS, RAG chat, avatar, and Codex pet tooling projects.",
+    "spritesheetPath":  "spritesheet.webp"
+}

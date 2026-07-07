@@ -1,0 +1,6 @@
+{
+  "id": "starwand",
+  "displayName": "Starwand",
+  "description": "A tiny star-person Codex pet holding a magic wand.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "slate-tally-tile",
+  "displayName": "Slate Tally Tile",
+  "description": "A compact slate tile with softened surface marks and chipped edge details.",
+  "spritesheetPath": "spritesheet.webp"
+}

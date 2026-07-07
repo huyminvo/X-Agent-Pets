@@ -1,0 +1,6 @@
+{
+  "id": "terminal",
+  "displayName": "Terminal",
+  "description": "A functional terminal-window Codex pet matching the expressive concept sheet with clear slide, flash, alert, error, waiting, working, and review states.",
+  "spritesheetPath": "spritesheet.webp"
+}

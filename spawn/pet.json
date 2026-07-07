@@ -1,0 +1,6 @@
+{
+  "id": "spawn",
+  "displayName": "Spawn",
+  "description": "A chibi pixel-art spawn.",
+  "spritesheetPath": "spritesheet.webp"
+}

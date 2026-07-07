@@ -1,0 +1,6 @@
+{
+  "id": "threnody-spool",
+  "displayName": "Threnody Spool",
+  "description": "A tiny mourning-thread spool that tightens around its own hush.",
+  "spritesheetPath": "spritesheet.webp"
+}

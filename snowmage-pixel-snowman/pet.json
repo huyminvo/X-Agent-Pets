@@ -1,0 +1,6 @@
+{
+  "id": "snowmage-pixel-snowman",
+  "displayName": "Snowmage Pixel Snowman",
+  "description": "A red-haired pixel mage snowman pet assembled from manually selected GIF frames.",
+  "spritesheetPath": "spritesheet.webp"
+}

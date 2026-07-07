@@ -1,0 +1,6 @@
+{
+  "id": "sonic-screwdriver",
+  "displayName": "Sonic Screwdriver（音速起子）",
+  "description": "《Doctor Who》第十四任博士风格的音速起子桌宠，会旋转、伸缩并用蓝色声波光芒扫描代码。",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "tut",
+  "displayName": "Tut",
+  "description": "A tiny Codex pet inspired by Tutankhamun's gold-and-blue burial mask and sarcophagus.",
+  "spritesheetPath": "spritesheet.webp"
+}

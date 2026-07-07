@@ -1,0 +1,16 @@
+{
+  "id": "triple-t",
+  "displayName": "Triple T",
+  "description": "Triple T is a compact Codex digital pet inspired by Tung Tung Tung Sahur, with wooden percussion energy and brainrot comedy timing.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot"
+  ],
+  "tags": [
+    "brainrot",
+    "tung-tung-tung-sahur",
+    "wooden",
+    "meme"
+  ]
+}

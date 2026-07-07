@@ -1,0 +1,6 @@
+{
+  "id": "senna",
+  "displayName": "Senna",
+  "description": "A tiny Codex-style racing driver companion inspired by Ayrton Senna, with a bright helmet and red racing suit.",
+  "spritesheetPath": "spritesheet.webp"
+}

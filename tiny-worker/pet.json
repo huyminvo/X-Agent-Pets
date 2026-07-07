@@ -1,0 +1,6 @@
+{
+  "id": "tiny-worker",
+  "displayName": "Tiny Worker",
+  "description": "A chibi pixel-art Codex pet inspired by the user photo, with messy dark hair, silver square glasses, and a black top.",
+  "spritesheetPath": "spritesheet.webp"
+}

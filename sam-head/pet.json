@@ -1,0 +1,6 @@
+{
+  "id": "sam-head",
+  "displayName": "Sam Head",
+  "description": "A compact Codex-style floating Sam Altman head.",
+  "spritesheetPath": "spritesheet.webp"
+}

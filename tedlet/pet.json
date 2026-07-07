@@ -1,0 +1,6 @@
+{
+  "id": "tedlet",
+  "displayName": "Tedlet",
+  "description": "A compact 3D toy Ted avatar with glasses, beard, navy shirt, boots, backpack, and notebook gear.",
+  "spritesheetPath": "spritesheet.webp"
+}

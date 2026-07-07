@@ -1,0 +1,6 @@
+{
+  "id": "tentacle",
+  "displayName": "Tentacle",
+  "description": "A tiny gray-white tentacle pet with a pale pink tip and round suction cups.",
+  "spritesheetPath": "spritesheet.webp"
+}

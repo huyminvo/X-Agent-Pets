@@ -1,0 +1,6 @@
+{
+  "id": "spike",
+  "displayName": "一只长期住在代码里的奇怪生物",
+  "description": "一只居住在 Codex 里的怪异尖刺生物。它会伸进文件夹读取文件，并时不时盯着你的终端发呆。",
+  "spritesheetPath": "spritesheet.webp"
+}

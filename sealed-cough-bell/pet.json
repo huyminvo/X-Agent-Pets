@@ -1,0 +1,6 @@
+{
+  "id": "sealed-cough-bell",
+  "displayName": "Sealed Cough Bell",
+  "description": "A little bell that traps the cough it was built to announce.",
+  "spritesheetPath": "spritesheet.webp"
+}

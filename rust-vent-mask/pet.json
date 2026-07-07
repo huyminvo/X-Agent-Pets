@@ -1,0 +1,6 @@
+{
+  "id": "rust-vent-mask",
+  "displayName": "Rust Vent Mask",
+  "description": "A blank vent-mask object that has no face and too much intake.",
+  "spritesheetPath": "spritesheet.webp"
+}

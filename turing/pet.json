@@ -1,0 +1,6 @@
+{
+  "id": "turing",
+  "displayName": "Turing",
+  "description": "A tiny Alan Turing-inspired codebreaker companion.",
+  "spritesheetPath": "spritesheet.webp"
+}

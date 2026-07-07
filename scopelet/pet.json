@@ -1,0 +1,6 @@
+{
+  "id": "scopelet",
+  "displayName": "Scopelet",
+  "description": "A tiny oscilloscope spirit for watching signals, timing edges, and realtime waveforms.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "codex.pet.v1",
+  "name": "StackBleed",
+  "displayName": "StackBleed",
+  "author": "stackbleed-ctrl",
+  "description": "A diabolical little alien-code gremlin with glowing horns, terminal claws, and chaotic StackBleed energy.",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "spritesheet": "spritesheet.webp",
+  "image": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 9,
+    "frameWidth": 192,
+    "frameHeight": 208,
+    "width": 1536,
+    "height": 1872
+  },
+  "frameRate": 8,
+  "animations": {
+    "idle": {
+      "row": 0,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "walk": {
+      "row": 1,
+      "frames": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "thinking": {
+      "row": 2,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "typing": {
+      "row": 3,
+      "frames": 8,
+      "fps": 10,
+      "loop": true
+    },
+    "success": {
+      "row": 4,
+      "frames": 8,
+      "fps": 8,
+      "loop": false
+    },
+    "error": {
+      "row": 5,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "sleep": {
+      "row": 6,
+      "frames": 8,
+      "fps": 6,
+      "loop": true
+    },
+    "permission": {
+      "row": 7,
+      "frames": 8,
+      "fps": 8,
+      "loop": true
+    },
+    "celebrate": {
+      "row": 8,
+      "frames": 8,
+      "fps": 10,
+      "loop": true
+    }
+  },
+  "states": {
+    "default": "idle",
+    "idle": "idle",
+    "running": "typing",
+    "thinking": "thinking",
+    "tool_use": "typing",
+    "success": "success",
+    "failure": "error",
+    "error": "error",
+    "permission": "permission",
+    "sleep": "sleep",
+    "done": "celebrate"
+  },
+  "tags": [
+    "diabolical",
+    "alien",
+    "gremlin",
+    "pixel",
+    "stackbleed"
+  ]
+}

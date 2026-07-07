@@ -1,0 +1,6 @@
+{
+  "id": "slag-button",
+  "displayName": "Slag Button",
+  "description": "A fused slag button that remembers the coat it outlived.",
+  "spritesheetPath": "spritesheet.webp"
+}

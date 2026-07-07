@@ -1,0 +1,6 @@
+{
+  "id": "sprout",
+  "displayName": "Sprout",
+  "description": "A cute green helper pet inspired only by the local profile context and the user's green, cute style preference.",
+  "spritesheetPath": "spritesheet.webp"
+}

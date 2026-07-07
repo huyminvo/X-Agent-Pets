@@ -1,0 +1,6 @@
+{
+  "id": "smog-censer-canister",
+  "displayName": "Smog Censer Canister",
+  "description": "A sealed censer canister that purifies nothing and keeps the ash.",
+  "spritesheetPath": "spritesheet.webp"
+}

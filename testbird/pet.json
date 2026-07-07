@@ -1,0 +1,6 @@
+{
+  "id": "testbird",
+  "displayName": "TestBird",
+  "description": "A tiny blue hummingbird companion for crisp, focused workspace motion.",
+  "spritesheetPath": "spritesheet.webp"
+}

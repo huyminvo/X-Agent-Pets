@@ -1,0 +1,6 @@
+{
+  "id": "tar-air-whistle",
+  "displayName": "Tar Air Whistle",
+  "description": "A tar-black whistle that calls without letting air leave.",
+  "spritesheetPath": "spritesheet.webp"
+}

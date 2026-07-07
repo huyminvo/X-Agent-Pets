@@ -1,0 +1,18 @@
+{
+  "id": "sixty-seven",
+  "displayName": "Sixty-Seven",
+  "description": "Sixty-Seven is a compact Codex digital pet inspired by the 6-7 meme, a chibi number creature doing the palms-up seesaw gesture.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "character",
+  "vibes": [
+    "brainrot",
+    "surreal"
+  ],
+  "tags": [
+    "brainrot",
+    "six-seven",
+    "67",
+    "number-creature",
+    "meme"
+  ]
+}

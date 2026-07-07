@@ -1,0 +1,6 @@
+{
+  "id": "testimony-needle",
+  "displayName": "Testimony Needle",
+  "description": "A sealed needle that stitches proof shut instead of opening it.",
+  "spritesheetPath": "spritesheet.webp"
+}

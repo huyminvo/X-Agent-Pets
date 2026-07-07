@@ -1,0 +1,6 @@
+{
+  "id": "tianlu",
+  "displayName": "天禄",
+  "description": "A Tianlu desktop pet based on the user's three-view reference.",
+  "spritesheetPath": "tianlu-atlas.png"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "skillbit",
+  "displayName": "Skillbit",
+  "description": "A tiny Codex-style skill-hatching companion for calm, curious coding work.",
+  "spritesheetPath": "spritesheet.webp"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "shigure-ui-dance",
+  "displayName": "Shigure Ui Dance",
+  "description": "A Shigure Ui-style chibi dancing mascot with calm idle states and energetic work/dance states for agent activity.",
+  "spritesheetPath": "spritesheet.webp"
+}

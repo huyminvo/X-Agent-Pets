@@ -1,0 +1,6 @@
+{
+  "id": "stale-crust-seal",
+  "displayName": "Stale Crust Seal",
+  "description": "A hardened crust seal used to approve the absence of bread.",
+  "spritesheetPath": "spritesheet.webp"
+}

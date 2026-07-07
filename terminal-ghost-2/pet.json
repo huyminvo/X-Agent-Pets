@@ -1,0 +1,6 @@
+{
+  "id": "terminal-ghost",
+  "displayName": "Terminal Ghost",
+  "description": "A quiet little terminal ghost that keeps developers company while it reviews diffs, guards tests, and patches bugs.",
+  "spritesheetPath": "spritesheet.webp"
+}
